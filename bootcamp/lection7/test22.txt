@@ -1,0 +1,11 @@
+next(x) - Возвращает следующий элемент итератора.
+
+oct(х) - Преобразование целого числа в восьмеричную строку.
+
+open(file, mode='r', buffering=None, encoding=None, errors=None, newline=None, closefd=True) - Открывает файл и возвращает соответствующий поток.
+
+ord(с) - Код символа.
+
+pow(x, y[, r]) - ( x ** y ) % r.
+
+reversed(object) - Итератор из развернутого объекта

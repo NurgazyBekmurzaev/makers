@@ -1,0 +1,13 @@
+
+[
+    {
+    "str": "Hello world", "int": "123", "float": 34.02, 
+    "list": [1, 2, 3], "tuple": [1, 2, 3], "dict": {"a": 1, "b": 2}
+    },
+
+    {
+    "str": "Hello world", "int": "123", "float": 34.02, 
+    "list": [1, 2, 3], "tuple": [1, 2, 3], 
+    "dict": {"a": 1, "b": 2}, "bool": true
+    }
+]
