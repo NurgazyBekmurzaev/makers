@@ -1,0 +1,280 @@
+[2022.04.28 13:40:48] Launched version: 3007003, install beta: [FALSE], alpha: 0, debug mode: [FALSE]
+[2022.04.28 13:40:48] Executable dir: /snap/telegram-desktop/3975/usr/bin/, name: telegram-desktop
+[2022.04.28 13:40:48] Initial working dir: /home/hello/
+[2022.04.28 13:40:48] Working dir: /home/hello/snap/telegram-desktop/3975/.local/share/TelegramDesktop/
+[2022.04.28 13:40:48] Command line: telegram-desktop --
+[2022.04.28 13:40:47] Executable path before check: /snap/telegram-desktop/3975/usr/bin/telegram-desktop
+[2022.04.28 13:40:48] Logs started
+[2022.04.28 13:40:48] Launcher filename: telegram-desktop_telegram-desktop.desktop
+[2022.04.28 13:40:48] Getting DE, XDG_CURRENT_DESKTOP: 'ubuntu:GNOME'
+[2022.04.28 13:40:48] Getting DE, XDG_SESSION_DESKTOP: 'ubuntu'
+[2022.04.28 13:40:48] Getting DE, DESKTOP_SESSION: 'ubuntu'
+[2022.04.28 13:40:48] Getting DE via WM: 'GNOME Shell'
+[2022.04.28 13:40:48] Getting DE, GNOME_DESKTOP_SESSION_ID: 'this-is-deprecated'
+[2022.04.28 13:40:48] Getting DE, KDE_FULL_SESSION: ''
+[2022.04.28 13:40:48] DE: Gnome
+[2022.04.28 13:40:48] Connecting local socket to /run/user/1000/snap.telegram-desktop/6a42203b0f16d3245a8f12d4b80c74d2...
+[2022.04.28 13:40:48] This is the only instance of Telegram, starting server and app...
+[2022.04.28 13:40:48] Moved logging from '/home/hello/snap/telegram-desktop/3975/.local/share/TelegramDesktop/log_start1.txt' to '/home/hello/snap/telegram-desktop/3975/.local/share/TelegramDesktop/log.txt'!
+[2022.04.28 13:40:48] Old start log 'log_start0.txt' found, deleted: [TRUE]
+[2022.04.28 13:40:48] Primary screen DPI: 96
+[2022.04.28 13:40:48] Font: from ':/gui/fonts/DAOpenSansRegular.ttf' loaded 'DAOpenSansRegular'
+[2022.04.28 13:40:48] Font: from ':/gui/fonts/DAVazirRegular.ttf' loaded 'DAVazirRegular'
+[2022.04.28 13:40:48] Font: from ':/gui/fonts/DAOpenSansRegularItalic.ttf' loaded 'DAOpenSansRegularItalic'
+[2022.04.28 13:40:48] Font: from ':/gui/fonts/DAVazirRegular.ttf' loaded 'DAVazirRegular'
+[2022.04.28 13:40:48] Font: from ':/gui/fonts/DAOpenSansSemiboldAsBold.ttf' loaded 'DAOpenSansSemibold'
+[2022.04.28 13:40:48] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2022.04.28 13:40:48] Font: from ':/gui/fonts/DAOpenSansSemiboldItalicAsBold.ttf' loaded 'DAOpenSansSemiboldItalic'
+[2022.04.28 13:40:48] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2022.04.28 13:40:48] Font: from ':/gui/fonts/DAOpenSansSemiboldAsBold.ttf' loaded 'DAOpenSansSemibold'
+[2022.04.28 13:40:48] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2022.04.28 13:40:48] Font: from ':/gui/fonts/DAOpenSansSemiboldItalicAsBold.ttf' loaded 'DAOpenSansSemiboldItalic'
+[2022.04.28 13:40:48] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2022.04.28 13:40:48] Icon theme: Yaru
+[2022.04.28 13:40:48] Fallback icon theme: 
+[2022.04.28 13:40:48] App Info: reading settings...
+[2022.04.28 13:40:48] App Info: reading encrypted settings...
+[2022.04.28 13:40:48] Lang Info: Loaded cached, keys: 3661
+[2022.04.28 13:40:50] OpenAL Logging Level: (not set)
+[2022.04.28 13:40:50] Audio Playback Devices: Built-in Audio Analog Stereo
+[2022.04.28 13:40:50] Audio Playback Default Device: Built-in Audio Analog Stereo
+[2022.04.28 13:40:50] Audio Capture Devices: Built-in Audio Analog Stereo;Monitor of Built-in Audio Analog Stereo
+[2022.04.28 13:40:50] Audio Capture Default Device: Built-in Audio Analog Stereo
+[2022.04.28 13:40:51] Using Unity launcher counter.
+[2022.04.28 13:40:51] System tray available: [TRUE]
+[2022.04.28 13:40:51] App Info: reading accounts info...
+[2022.04.28 13:40:51] App Info: reading encrypted info...
+[2022.04.28 13:40:51] App Info: reading map...
+[2022.04.28 13:40:51] App Info: reading encrypted map...
+[2022.04.28 13:40:51] App Info: reading encrypted user settings...
+[2022.04.28 13:40:51] App Info: encrypted user settings read.
+[2022.04.28 13:40:51] App Info: reading encrypted mtp data...
+[2022.04.28 13:40:51] MTP Info: read keys, current: 5, to destroy: 0
+[2022.04.28 13:40:51] Map read time: 27
+[2022.04.28 13:40:51] App Info: reading encrypted mtp config...
+[2022.04.28 13:40:53] Export Info: Destroy top bar by controller removal.
+[2022.04.28 13:40:54] OpenGL Profile: Compatibility.
+[2022.04.28 13:40:54] OpenGL Renderer: Mesa Intel(R) UHD Graphics (CML GT2)
+[2022.04.28 13:40:54] OpenGL Vendor: Intel
+[2022.04.28 13:40:54] OpenGL Version: 4.6 (Compatibility Profile) Mesa 21.2.6
+[2022.04.28 13:40:54] OpenGL Extensions: GL_ARB_gpu_shader_int64, GL_ARB_explicit_uniform_location, GL_EXT_texture_sRGB_decode, GL_EXT_framebuffer_object, GL_EXT_separate_specular_color, GL_EXT_texture_shared_exponent, GL_ARB_compute_variable_group_size, GL_ARB_shader_clock, GL_ARB_texture_compression_rgtc, GL_EXT_shader_samples_identical, GL_APPLE_packed_pixels, GL_ARB_gpu_shader5, GL_AMD_shader_trinary_minmax, GL_ARB_fragment_shader, GL_EXT_subtexture, GL_ARB_copy_image, GL_EXT_texture_compression_dxt1, GL_ARB_internalformat_query, GL_AMD_query_buffer_object, GL_ARB_texture_rg, GL_EXT_texture_array, GL_KHR_context_flush_control, GL_EXT_framebuffer_sRGB, GL_ARB_shader_atomic_counter_ops, GL_ARB_texture_buffer_object, GL_ARB_shader_viewport_layer_array, GL_ARB_multi_bind, GL_ARB_map_buffer_range, GL_NV_texture_barrier, GL_EXT_draw_instanced, GL_ARB_vertex_buffer_object, GL_ARB_texture_non_power_of_two, GL_EXT_draw_buffers2, GL_NV_fog_distance, GL_AMD_seamless_cubemap_per_texture, GL_ARB_compressed_texture_pixel_storage, GL_ARB_multi_draw_indirect, GL_ARB_vertex_program, GL_EXT_timer_query, GL_ARB_occlusion_query, GL_EXT_demote_to_helper_invocation, GL_INTEL_shader_atomic_float_minmax, GL_ARB_fragment_shader_interlock, GL_NV_copy_depth_to_color, GL_ARB_texture_query_levels, GL_EXT_texture_shadow_lod, GL_SGIS_texture_border_clamp, GL_AMD_texture_texture4, GL_ARB_get_program_binary, GL_NV_primitive_restart, GL_ARB_point_sprite, GL_EXT_framebuffer_multisample_blit_scaled, GL_EXT_texture_env_add, GL_EXT_vertex_attrib_64bit, GL_ARB_provoking_vertex, GL_ARB_shader_bit_encoding, GL_AMD_conservative_depth, GL_ARB_depth_clamp, GL_ARB_shader_atomic_counters, GL_ARB_texture_env_add, GL_SGIS_texture_lod, GL_ARB_indirect_parameters, GL_EXT_shader_framebuffer_fetch_non_coherent, GL_EXT_texture_object, GL_EXT_copy_texture, GL_ARB_multisample, GL_EXT_blend_color, GL_ATI_texture_env_combine3, GL_IBM_rasterpos_clip, GL_INTEL_shader_integer_functions2, GL_EXT_texture_buffer_object, GL_NV_packed_depth_stencil, GL_ARB_texture_rectangle, GL_ARB_draw_elements_base_vertex, GL_EXT_texture_compression_rgtc, GL_SUN_multi_draw_arrays, GL_EXT_texture_filter_anisotropic, GL_KHR_texture_compression_astc_ldr, GL_ARB_fragment_layer_viewport, GL_EXT_packed_float, GL_S3_s3tc, GL_ARB_blend_func_extended, GL_ARB_texture_compression, GL_ARB_buffer_storage, GL_NV_fragment_shader_interlock, GL_IBM_texture_mirrored_repeat, GL_ARB_parallel_shader_compile, GL_ARB_shading_language_include, GL_ATI_texture_float, GL_ARB_texture_gather, GL_ARB_shader_image_load_store, GL_ARB_robustness, GL_ARB_explicit_attrib_location, GL_ARB_enhanced_layouts, GL_ARB_uniform_buffer_object, GL_EXT_compiled_vertex_array, GL_MESA_pack_invert, GL_ARB_tessellation_shader, GL_ARB_vertex_type_2_10_10_10_rev, GL_EXT_pixel_buffer_object, GL_EXT_rescale_normal, GL_ARB_query_buffer_object, GL_KHR_blend_equation_advanced, GL_ARB_copy_buffer, GL_ARB_gl_spirv, GL_KHR_blend_equation_advanced_coherent, GL_ARB_texture_stencil8, GL_ARB_depth_buffer_float, GL_KHR_texture_compression_astc_sliced_3d, GL_NV_light_max_exponent, GL_EXT_packed_pixels, GL_ARB_map_buffer_alignment, GL_ARB_texture_multisample, GL_ARB_derivative_control, GL_ARB_get_texture_sub_image, GL_ARB_fragment_coord_conventions, GL_ARB_ES3_1_compatibility, GL_EXT_packed_depth_stencil, GL_ARB_framebuffer_no_attachments, GL_ARB_texture_view, GL_AMD_performance_monitor, GL_EXT_secondary_color, GL_ARB_clear_buffer_object, GL_ARB_color_buffer_float, GL_MESA_framebuffer_flip_y, GL_ARB_window_pos, GL_EXT_memory_object_fd, GL_EXT_texture_lod_bias, GL_ARB_transpose_matrix, GL_EXT_point_parameters, GL_EXT_fog_coord, GL_ARB_draw_buffers, GL_SGIS_generate_mipmap, GL_ARB_sampler_objects, GL_ARB_shading_language_420pack, GL_ARB_texture_filter_anisotropic, GL_NV_depth_clamp, GL_ARB_vertex_array_object, GL_EXT_stencil_two_side, GL_AMD_vertex_shader_viewport_index, GL_ARB_texture_cube_map_array, GL_EXT_shadow_funcs, GL_ARB_occlusion_query2, GL_ARB_texture_swizzle, GL_KHR_debug, GL_EXT_framebuffer_multisample, GL_ARB_seamless_cube_map, GL_KHR_robust_buffer_access_behavior, GL_NV_blend_square, GL_EXT_semaphore, GL_AMD_depth_clamp_separate, GL_ARB_shader_subroutine, GL_ARB_robust_buffer_access_behavior, GL_ARB_internalformat_query2, GL_ARB_timer_query, GL_ARB_seamless_cubemap_per_texture, GL_ARB_texture_storage_multisample, GL_ARB_half_float_pixel, GL_EXT_shader_framebuffer_fetch, GL_ARB_fragment_program_shadow, GL_ARB_invalidate_subdata, GL_ARB_transform_feedback3, GL_ARB_viewport_array, GL_EXT_texture_snorm, GL_ARB_shader_precision, GL_ARB_draw_instanced, GL_ARB_texture_env_crossbar, GL_ARB_texture_float, GL_ARB_post_depth_coverage, GL_INTEL_performance_query, GL_ARB_vertex_attrib_64bit, GL_ARB_shader_storage_buffer_object, GL_EXT_blend_func_separate, GL_ARB_clip_control, GL_ARB_half_float_vertex, GL_EXT_texture, GL_ARB_conservative_depth, GL_3DFX_texture_compression_FXT1, GL_ARB_texture_buffer_object_rgb32, GL_ARB_ES3_compatibility, GL_MESA_window_pos, GL_EXT_EGL_image_storage, GL_ARB_transform_feedback_overflow_query, GL_ARB_transform_feedback_instanced, GL_ATI_separate_stencil, GL_EXT_blend_minmax, GL_EXT_vertex_array, GL_ARB_texture_mirrored_repeat, GL_EXT_texture_cube_map, GL_NV_compute_shader_derivatives, GL_ARB_debug_output, GL_NV_half_float, GL_NV_copy_image, GL_MESA_shader_integer_functions, GL_ARB_ES2_compatibility, GL_ARB_framebuffer_object, GL_EXT_texture3D, GL_ARB_vertex_attrib_binding, GL_ARB_draw_buffers_blend, GL_ARB_point_parameters, GL_ARB_texture_barrier, GL_EXT_texture_env_dot3, GL_ARB_texture_storage, GL_ARB_compatibility, GL_ARB_framebuffer_sRGB, GL_OES_read_format, GL_ARB_clear_texture, GL_ARB_shader_texture_image_samples, GL_ARB_texture_cube_map, GL_ARB_conditional_render_inverted, GL_ARB_texture_query_lod, GL_ARB_stencil_texturing, GL_EXT_blend_equation_separate, GL_ARB_texture_env_dot3, GL_ARB_texture_mirror_clamp_to_edge, GL_EXT_texture_swizzle, GL_ARB_gpu_shader_fp64, GL_EXT_texture_sRGB_R8, GL_EXT_framebuffer_blit, GL_ARB_pixel_buffer_object, GL_ARB_shader_draw_parameters, GL_SGIS_texture_edge_clamp, GL_AMD_vertex_shader_layer, GL_EXT_semaphore_fd, GL_ARB_depth_texture, GL_ATI_fragment_shader, GL_EXT_memory_object, GL_EXT_provoking_vertex, GL_ARB_compute_shader, GL_AMD_shader_stencil_export, GL_ARB_program_interface_query, GL_KHR_parallel_shader_compile, GL_ARB_texture_env_combine, GL_ARB_multitexture, GL_EXT_texture_rectangle, GL_NV_texgen_reflection, GL_INTEL_blackhole_render, GL_ARB_cull_distance, GL_EXT_texture_env_combine, GL_EXT_stencil_wrap, GL_OES_EGL_image, GL_EXT_EGL_sync, GL_ARB_transform_feedback2, GL_ARB_texture_border_clamp, GL_EXT_vertex_array_bgra, GL_ARB_vertex_shader, GL_ARB_sync, GL_ARB_shader_stencil_export, GL_EXT_shader_integer_mix, GL_EXT_multi_draw_arrays, GL_NV_conditional_render, GL_ARB_base_instance, GL_EXT_texture_integer, GL_ATI_blend_equation_separate, GL_EXT_texture_compression_s3tc, GL_EXT_bgra, GL_ANGLE_texture_compression_dxt5, GL_ARB_draw_indirect, GL_ARB_vertex_type_10f_11f_11f_rev, GL_EXT_gpu_program_parameters, GL_NV_texture_rectangle, GL_ARB_fragment_program, GL_EXT_texture_edge_clamp, GL_ARB_shader_group_vote, GL_ATI_draw_buffers, GL_KHR_no_error, GL_ARB_direct_state_access, GL_ARB_shading_language_packing, GL_ARB_sample_shading, GL_ARB_vertex_array_bgra, GL_ARB_shader_objects, GL_NV_texture_env_combine4, GL_ARB_instanced_arrays, GL_EXT_gpu_shader4, GL_IBM_multimode_draw_arrays, GL_ANGLE_texture_compression_dxt3, GL_ARB_shader_texture_lod, GL_ARB_spirv_extensions, GL_ARB_texture_rgb10_a2ui, GL_EXT_texture_sRGB, GL_MESA_texture_signed_rgba, GL_ARB_shadow, GL_EXT_polygon_offset_clamp, GL_ARB_pipeline_statistics_query, GL_ARB_shading_language_100, GL_ARB_arrays_of_arrays, GL_ARB_separate_shader_objects, GL_ARB_texture_buffer_range, GL_AMD_multi_draw_indirect, GL_AMD_pinned_memory, GL_EXT_transform_feedback, GL_INGR_blend_func_separate, GL_KHR_robustness, GL_ARB_polygon_offset_clamp, GL_ARB_shader_image_size, GL_EXT_blend_subtract, GL_ARB_texture_compression_bptc, GL_EXT_direct_state_access, GL_EXT_draw_range_elements, GL_AMD_draw_buffers_blend, GL_EXT_abgr, GL_ARB_shader_ballot
+[2022.04.28 13:40:54] OpenGL: QOpenGLContext created, version: 4.4.
+[2022.04.28 13:40:54] OpenGL: [TRUE] (OverlayWidget)
+[2022.04.28 13:40:56] API Warning: not loaded minimal channel applied.
+[2022.04.28 13:40:56] API Warning: not loaded minimal channel applied.
+[2022.04.28 13:40:57] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.28 13:40:59] Audio Info: Closing audio playback device.
+[2022.04.28 13:42:22] Message Info: bad message notification received (error_code 33) for msg_id = 7091556835502477716, seq_no = 16
+[2022.04.28 13:42:22] Message Info: bad message notification received, msgId 7091556835502477716, error_code 33
+[2022.04.28 13:43:23] Skipping message, because it is already in blocks!
+[2022.04.28 15:03:28] API Warning: not loaded minimal channel applied.
+[2022.04.28 15:27:51] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.28 15:27:53] Audio Info: Closing audio playback device.
+[2022.04.28 15:42:22] API Warning: not loaded minimal channel applied.
+[2022.04.28 16:00:16] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.28 16:00:18] Audio Info: Closing audio playback device.
+[2022.04.28 16:20:15] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.28 16:20:17] Audio Info: Closing audio playback device.
+[2022.04.28 16:59:52] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.28 16:59:54] Audio Info: Closing audio playback device.
+[2022.04.28 17:00:10] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.28 17:00:12] Audio Info: Closing audio playback device.
+[2022.04.29 09:52:37] Could not send ping for some seconds, restarting...
+[2022.04.29 09:53:37] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.29 09:53:39] Audio Info: Closing audio playback device.
+[2022.04.29 09:53:49] RPC Error: request 1054 got fail with code 400, error PEER_ID_INVALID
+[2022.04.29 09:55:51] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.29 09:55:53] Audio Info: Closing audio playback device.
+[2022.04.29 09:58:41] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.29 09:58:43] Audio Info: Closing audio playback device.
+[2022.04.29 10:06:41] RPC Error: request 1160 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2022.04.29 10:12:13] Message Info: bad message notification received (error_code 33) for msg_id = 7091873786892417820, seq_no = 2984
+[2022.04.29 10:16:38] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.29 10:16:40] Audio Info: Closing audio playback device.
+[2022.04.29 10:17:49] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.29 10:17:51] Audio Info: Closing audio playback device.
+[2022.04.29 10:21:38] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.29 10:21:40] Audio Info: Closing audio playback device.
+[2022.04.29 10:40:53] RPC Error: request 1295 got fail with code 400, error PEER_ID_INVALID
+[2022.04.29 10:40:58] Skipping message, because it is already in blocks!
+[2022.04.29 11:52:14] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.29 11:52:16] Audio Info: Closing audio playback device.
+[2022.04.29 12:24:31] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.29 12:24:33] Audio Info: Closing audio playback device.
+[2022.04.29 13:00:33] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.29 13:00:35] Audio Info: Closing audio playback device.
+[2022.04.29 16:35:29] MTP Info: -404 error received in 2 with temporary key, assuming it was destroyed.
+[2022.04.29 16:35:30] Message Info: bad message notification received (error_code 16) for msg_id = 7091918142706767716, seq_no = 4
+[2022.04.29 16:35:31] Message Info: bad message notification received (error_code 16) for msg_id = 7091918146740944916, seq_no = 4
+[2022.04.29 16:35:32] Config Error: No 'Date' header received.
+[2022.04.29 16:35:32] Message Info: bad message notification received (error_code 16) for msg_id = 7091918153204255812, seq_no = 3
+[2022.04.29 16:35:33] Message Info: bad message notification received (error_code 16) for msg_id = 7091918153606882704, seq_no = 4
+[2022.04.29 16:35:33] Message Info: bad message notification received (error_code 16) for msg_id = 7091918154500690460, seq_no = 4
+[2022.04.29 16:35:33] Message Info: bad message notification received (error_code 16) for msg_id = 7091918154899522004, seq_no = 4
+[2022.04.29 16:35:33] Message Info: bad message notification received (error_code 16) for msg_id = 7091918155300917616, seq_no = 4
+[2022.04.29 16:35:33] Message Info: bad message notification received (error_code 16) for msg_id = 7091918155724555460, seq_no = 4
+[2022.04.29 16:35:33] Message Info: bad message notification received (error_code 16) for msg_id = 7091918156150690952, seq_no = 4
+[2022.04.29 16:35:33] Message Info: bad message notification received (error_code 16) for msg_id = 7091918156562074188, seq_no = 4
+[2022.04.29 16:35:33] Message Info: bad message notification received (error_code 16) for msg_id = 7091918156965655548, seq_no = 4
+[2022.04.29 16:35:33] Message Info: bad message notification received (error_code 16) for msg_id = 7091918157367290148, seq_no = 4
+[2022.04.29 16:35:34] Message Info: bad message notification received (error_code 16) for msg_id = 7091918157972996368, seq_no = 4
+[2022.04.29 16:35:34] Message Info: bad message notification received (error_code 16) for msg_id = 7091918158763067736, seq_no = 4
+[2022.04.29 16:35:34] Message Info: bad message notification received (error_code 16) for msg_id = 7091918159180421896, seq_no = 4
+[2022.04.29 16:35:34] Message Info: bad message notification received (error_code 16) for msg_id = 7091918159585127388, seq_no = 4
+[2022.04.29 16:35:34] Message Info: bad message notification received (error_code 16) for msg_id = 7091918159994305976, seq_no = 4
+[2022.04.29 16:35:34] Message Info: bad message notification received (error_code 16) for msg_id = 7091918160397875380, seq_no = 4
+[2022.04.29 16:35:34] Message Info: bad message notification received (error_code 16) for msg_id = 7091918160806032076, seq_no = 4
+[2022.04.29 16:35:34] Message Info: bad message notification received (error_code 16) for msg_id = 7091918161220718668, seq_no = 4
+[2022.04.29 16:35:34] Message Info: bad message notification received (error_code 16) for msg_id = 7091918161624810480, seq_no = 4
+[2022.04.29 16:35:35] Message Info: bad message notification received (error_code 16) for msg_id = 7091918162029944712, seq_no = 4
+[2022.04.29 16:35:35] Message Info: bad message notification received (error_code 16) for msg_id = 7091918163037521612, seq_no = 4
+[2022.04.29 16:35:35] Message Info: bad message notification received (error_code 16) for msg_id = 7091918163440300280, seq_no = 4
+[2022.04.29 16:35:35] Message Info: bad message notification received (error_code 16) for msg_id = 7091918163845971432, seq_no = 4
+[2022.04.29 16:35:35] Message Info: bad message notification received (error_code 16) for msg_id = 7091918164249967512, seq_no = 4
+[2022.04.29 16:35:35] Message Info: bad message notification received (error_code 16) for msg_id = 7091918164655470500, seq_no = 4
+[2022.04.29 16:35:35] Message Info: bad message notification received (error_code 16) for msg_id = 7091918165060236404, seq_no = 4
+[2022.04.29 16:35:35] Message Info: bad message notification received (error_code 16) for msg_id = 7091918165470552444, seq_no = 4
+[2022.04.29 16:35:35] Message Info: bad message notification received (error_code 16) for msg_id = 7091918165876537616, seq_no = 4
+[2022.04.29 16:35:36] Message Info: bad message notification received (error_code 16) for msg_id = 7091918166280382052, seq_no = 4
+[2022.04.29 16:35:36] Message Info: bad message notification received (error_code 16) for msg_id = 7091918167325343508, seq_no = 4
+[2022.04.29 16:35:36] Message Info: bad message notification received (error_code 16) for msg_id = 7091918167742932460, seq_no = 4
+[2022.04.29 16:35:36] Message Info: bad message notification received (error_code 16) for msg_id = 7091918168147324684, seq_no = 4
+[2022.04.29 16:35:36] Message Info: bad message notification received (error_code 16) for msg_id = 7091918168552579316, seq_no = 4
+[2022.04.29 16:35:36] Message Info: bad message notification received (error_code 16) for msg_id = 7091918168956921920, seq_no = 4
+[2022.04.29 16:35:36] Message Info: bad message notification received (error_code 16) for msg_id = 7091918169372329612, seq_no = 4
+[2022.04.29 16:35:36] Message Info: bad message notification received (error_code 16) for msg_id = 7091918169798399460, seq_no = 4
+[2022.04.29 16:35:36] Message Info: bad message notification received (error_code 16) for msg_id = 7091918170224464484, seq_no = 4
+[2022.04.29 16:35:37] Message Info: bad message notification received (error_code 16) for msg_id = 7091918171109667200, seq_no = 4
+[2022.04.29 16:35:37] Message Info: bad message notification received (error_code 16) for msg_id = 7091918171991439176, seq_no = 4
+[2022.04.29 16:35:37] Message Info: bad message notification received (error_code 16) for msg_id = 7091918172810276372, seq_no = 4
+[2022.04.29 16:35:37] Message Info: bad message notification received (error_code 16) for msg_id = 7091918173311505492, seq_no = 4
+[2022.04.29 16:35:37] Message Info: bad message notification received (error_code 16) for msg_id = 7091918173717730232, seq_no = 4
+[2022.04.29 16:35:37] Message Info: bad message notification received (error_code 16) for msg_id = 7091918174615932644, seq_no = 4
+[2022.04.29 16:35:38] Message Info: bad message notification received (error_code 16) for msg_id = 7091918175066927940, seq_no = 4
+[2022.04.29 16:35:38] Config Error: Failed to parse dns response JSON, error: illegal value
+[2022.04.29 16:35:38] Config Error: Bad data size 0 required 344
+[2022.04.29 16:35:38] Message Info: bad message notification received (error_code 16) for msg_id = 7091918175917399084, seq_no = 4
+[2022.04.29 16:35:38] Message Info: bad message notification received (error_code 16) for msg_id = 7091918176077026060, seq_no = 3
+[2022.04.29 16:35:38] Message Info: bad message notification received (error_code 16) for msg_id = 7091918176391065352, seq_no = 4
+[2022.04.29 16:35:38] Message Info: bad message notification received (error_code 16) for msg_id = 7091918176833755784, seq_no = 4
+[2022.04.29 16:35:38] Message Info: bad message notification received (error_code 16) for msg_id = 7091918176833591992, seq_no = 4
+[2022.04.29 16:35:38] Message Info: bad message notification received (error_code 16) for msg_id = 7091918177286607216, seq_no = 4
+[2022.04.29 16:35:38] Message Info: bad message notification received (error_code 16) for msg_id = 7091918177268213812, seq_no = 4
+[2022.04.29 16:35:38] Message Info: bad message notification received (error_code 16) for msg_id = 7091918178052266296, seq_no = 4
+[2022.04.29 16:35:38] Message Info: bad message notification received (error_code 16) for msg_id = 7091918178052211132, seq_no = 4
+[2022.04.29 16:35:38] Message Info: bad message notification received (error_code 16) for msg_id = 7091918178553917396, seq_no = 4
+[2022.04.29 16:35:38] Message Info: bad message notification received (error_code 16) for msg_id = 7091918179031047384, seq_no = 4
+[2022.04.29 16:35:39] Config Error: No 'Date' header received.
+[2022.04.29 16:35:39] Message Info: bad message notification received (error_code 16) for msg_id = 7091918179486295984, seq_no = 4
+[2022.04.29 16:35:39] Message Info: bad message notification received (error_code 16) for msg_id = 7091918179939424416, seq_no = 4
+[2022.04.29 16:35:39] Message Info: bad message notification received (error_code 16) for msg_id = 7091918180394676616, seq_no = 4
+[2022.04.29 16:35:39] Message Info: bad message notification received (error_code 16) for msg_id = 7091918180843847116, seq_no = 4
+[2022.04.29 16:35:39] Message Info: bad message notification received (error_code 16) for msg_id = 7091918181295708120, seq_no = 4
+[2022.04.29 16:35:39] Message Info: bad message notification received (error_code 16) for msg_id = 7091918181747597764, seq_no = 4
+[2022.04.29 16:35:39] Message Info: bad message notification received (error_code 16) for msg_id = 7091918181833286912, seq_no = 3
+[2022.04.29 16:35:39] Message Info: bad message notification received (error_code 16) for msg_id = 7091918182201037524, seq_no = 4
+[2022.04.29 16:35:39] Message Info: bad message notification received (error_code 16) for msg_id = 7091918182298859216, seq_no = 4
+[2022.04.29 16:35:39] Message Info: bad message notification received (error_code 16) for msg_id = 7091918182653445560, seq_no = 4
+[2022.04.29 16:35:39] Message Info: bad message notification received (error_code 16) for msg_id = 7091918182743516692, seq_no = 4
+[2022.04.29 16:35:39] Message Info: bad message notification received (error_code 16) for msg_id = 7091918183105238916, seq_no = 4
+[2022.04.29 16:35:39] Message Info: bad message notification received (error_code 16) for msg_id = 7091918183189770632, seq_no = 4
+[2022.04.29 16:35:39] Message Info: bad message notification received (error_code 16) for msg_id = 7091918183556670160, seq_no = 4
+[2022.04.29 16:35:40] Message Info: bad message notification received (error_code 16) for msg_id = 7091918183654645484, seq_no = 4
+[2022.04.29 16:36:01] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.29 16:36:02] MTP Info: -404 error received in 160002 with temporary key, assuming it was destroyed.
+[2022.04.29 16:36:02] Message Info: bad message notification received (error_code 33) for msg_id = 7091972674280139840, seq_no = 48
+[2022.04.29 16:36:03] Audio Info: Closing audio playback device.
+[2022.05.03 12:09:37] MTP Info: -404 error received in 2 with temporary key, assuming it was destroyed.
+[2022.05.03 12:09:37] Config Error: Failed to parse dns response JSON, error: illegal value
+[2022.05.03 12:09:37] Config Error: Bad data size 0 required 344
+[2022.05.03 12:09:38] Config Error: Failed to parse dns response JSON, error: illegal value
+[2022.05.03 12:09:38] Config Error: Bad data size 0 required 344
+[2022.05.03 12:09:38] Message Info: bad message notification received (error_code 16) for msg_id = 7091974496400439024, seq_no = 4
+[2022.05.03 12:10:03] Could not send ping for some seconds, restarting...
+[2022.05.03 12:10:04] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.03 12:10:05] API Warning: not loaded minimal channel applied.
+[2022.05.03 12:10:05] MTP Info: -404 error received in 170002 with temporary key, assuming it was destroyed.
+[2022.05.03 12:10:06] MTP Info: -404 error received in 160004 with temporary key, assuming it was destroyed.
+[2022.05.03 12:10:08] Audio Info: Closing audio playback device.
+[2022.05.03 12:11:33] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.03 12:11:35] Audio Info: Closing audio playback device.
+[2022.05.03 12:14:08] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.03 12:14:10] Audio Info: Closing audio playback device.
+[2022.05.03 13:00:07] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.03 13:00:10] Audio Info: Closing audio playback device.
+[2022.05.03 14:18:42] Message Info: bad message notification received (error_code 16) for msg_id = 7093403921533407748, seq_no = 692
+[2022.05.03 14:18:42] Message Info: bad message notification received (error_code 16) for msg_id = 7093403922116454512, seq_no = 692
+[2022.05.03 14:18:43] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.03 14:18:45] Audio Info: Closing audio playback device.
+[2022.05.03 14:18:48] Could not send ping for some seconds, restarting...
+[2022.05.03 14:19:26] RPC Error: request 2208 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2022.05.03 14:19:27] RPC Error: request 2209 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2022.05.03 14:30:39] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.03 14:30:41] Audio Info: Closing audio playback device.
+[2022.05.03 14:53:17] Message Info: bad message notification received (error_code 33) for msg_id = 7093430532798011644, seq_no = 1098
+[2022.05.03 14:53:17] Message Info: bad message notification received, msgId 7093430532798011644, error_code 33
+[2022.05.03 14:54:48] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.03 14:54:50] Audio Info: Closing audio playback device.
+[2022.05.03 15:31:11] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.03 15:31:14] Audio Info: Closing audio playback device.
+[2022.05.03 16:00:21] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.03 16:00:23] Audio Info: Closing audio playback device.
+[2022.05.03 16:28:21] RPC Error: request 2715 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2022.05.03 17:03:34] Message Info: bad message notification received (error_code 16) for msg_id = 7093461270843657044, seq_no = 1265
+[2022.05.03 17:03:46] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.03 17:03:48] Audio Info: Closing audio playback device.
+[2022.05.04 10:17:30] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 10:17:32] Audio Info: Closing audio playback device.
+[2022.05.04 10:25:43] Message Info: bad message notification received (error_code 16) for msg_id = 7093731093587776580, seq_no = 1338
+[2022.05.04 10:26:28] Could not send ping for some seconds, restarting...
+[2022.05.04 10:33:42] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 10:33:44] Audio Info: Closing audio playback device.
+[2022.05.04 10:42:45] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 10:42:47] Audio Info: Closing audio playback device.
+[2022.05.04 11:11:10] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 11:11:12] Audio Info: Closing audio playback device.
+[2022.05.04 11:19:40] RPC Error: request 3158 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2022.05.04 11:25:07] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 11:25:09] Audio Info: Closing audio playback device.
+[2022.05.04 11:25:27] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 11:25:29] Audio Info: Closing audio playback device.
+[2022.05.04 11:25:33] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 11:25:35] Audio Info: Closing audio playback device.
+[2022.05.04 11:34:12] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 11:34:14] Audio Info: Closing audio playback device.
+[2022.05.04 11:55:30] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 11:55:33] Audio Info: Closing audio playback device.
+[2022.05.04 12:09:40] MTP Info: -404 error received in 2 with temporary key, assuming it was destroyed.
+[2022.05.04 12:16:45] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 12:16:47] Audio Info: Closing audio playback device.
+[2022.05.04 12:22:52] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 12:22:54] Audio Info: Closing audio playback device.
+[2022.05.04 12:33:49] MTP Info: -404 error received in 160002 with temporary key, assuming it was destroyed.
+[2022.05.04 12:46:52] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 12:46:54] Audio Info: Closing audio playback device.
+[2022.05.04 13:00:11] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 13:00:13] Audio Info: Closing audio playback device.
+[2022.05.04 13:21:18] API Warning: not loaded minimal channel applied.
+[2022.05.04 13:21:18] API Warning: not loaded minimal channel applied.
+[2022.05.04 13:38:15] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 13:38:17] Audio Info: Closing audio playback device.
+[2022.05.04 13:48:16] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 13:48:18] Audio Info: Closing audio playback device.
+[2022.05.04 14:24:28] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 14:24:30] Audio Info: Closing audio playback device.
+[2022.05.04 16:35:33] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 16:35:35] Audio Info: Closing audio playback device.
+[2022.05.04 16:55:12] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 16:55:14] Audio Info: Closing audio playback device.
+[2022.05.04 16:56:00] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 16:56:02] Audio Info: Closing audio playback device.
+[2022.05.04 17:03:51] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 17:03:53] Audio Info: Closing audio playback device.
+[2022.05.05 11:23:30] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.05 11:23:32] Audio Info: Closing audio playback device.
+[2022.05.05 11:23:34] API Warning: not loaded minimal channel applied.
+[2022.05.05 11:23:39] MTP Info: -404 error received in 160001 with temporary key, assuming it was destroyed.
+[2022.05.05 11:30:17] Message Info: bad message notification received (error_code 16) for msg_id = 7094118789552280992, seq_no = 10
+[2022.05.05 11:30:17] Message Info: bad message notification received (error_code 16) for msg_id = 7094118789552082080, seq_no = 8
+[2022.05.05 11:30:17] Message Info: bad message notification received (error_code 16) for msg_id = 7094118789793680536, seq_no = 10
+[2022.05.05 11:36:31] MTP Info: -404 error received in 20004 with temporary key, assuming it was destroyed.

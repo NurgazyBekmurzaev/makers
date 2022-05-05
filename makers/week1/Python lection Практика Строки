@@ -1,0 +1,664 @@
+
+VISUAL STUDIO CODE
+
+# string = "makers Bootcamp"
+# result = string[7]
+# print(result)
+
+
+
+
+# string = "makers bottcamp"
+# result1 = string[0:6]  1 вариант
+# # result2 = string[:6]  2 вариант
+# print(result1)
+
+
+# string = "makers bottcamp"
+# result1 = string[0::2]
+# print(result1)
+
+# string = "makers bottcamp"
+# result1 = string.split()
+# print(result1)
+
+# string1 = "Makers"
+# string2 = 'Bootcamp'
+# print(string1, string2)
+
+# string3 = "Maker's Bootcamp"
+# print(string3)
+
+
+# sentence = 'i love maker\'s'
+# print(sentence)
+
+
+# string = "Dear friend, \n\nWelcome to Makers Bootcamp! \nEnjoy yor time here with us!"
+# print(string)
+
+
+# string = """Dear friend, 
+# Welcome to Makers Bootcamp! 
+# Enjoy yor time here with us!"""
+# print(string)
+
+
+# string = 'This is very long string.\
+# The length of string in puthon should not be more than 79 simvols.\
+# remember this'
+# print(string)
+
+# languages = 'languages:\n\t'
+# destription = 'Python: backend language\n\t Javascript: frontend language'
+# print(languages, destription)
+
+# loop = 'for i in range(5):\n\tprint(i)'
+# print(loop)
+
+
+# sentence = 'hello\vmakers\vbootcamp'
+# print(sentence)
+
+
+# url = r'https://kaktus/\news\topiks/\read'
+# print(url)
+
+
+
+# string1 = 'Makers'
+# string2 = 'Bootcamp'
+# # print(string1 + string2)
+
+# print('I study at ' + string1 + ' ' + string2)
+
+
+
+# num1 = '6'
+# num2 = '7'
+# result = num1 + num2
+# print(result)
+
+
+# string = 'makers'
+# print(string * 5)
+
+
+# string = 'makers'
+# print(len(string))
+
+
+
+# length = len('john')
+# print(length)
+
+
+# sentence = 'strings are ordered'
+# print(len(sentence))
+# print(sentence[0])
+# print(sentence[5])
+# print(sentence[7])
+# print(sentence[-1])
+# print(sentence[-2])
+# print(sentence[18])
+
+"""
+[x:y]
+"""
+# string = 'makers bootcamp'
+# # print(string[::-1])
+# # print(string[3:5:2])
+# # print(string[2::3])
+# print(string)
+
+
+# part_string = string[:3]
+# print(string[2:-2])
+# print(string[:3])
+# print(string[:])
+# print(part_string)
+
+
+# world = 'dream'
+# # world[0] = 'c'
+# world = 'c' + world[1:]
+# print(world)
+
+TERMINAL
+
+
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+makers Bootcamp
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+B
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+makers makers
+Traceback (most recent call last):
+  File "/home/hello/Documents/bootcamp/lection2/string.py", line 115, in <module>
+    from unittest import result
+  File "/usr/lib/python3.8/unittest/__init__.py", line 60, in <module>
+    from .async_case import IsolatedAsyncioTestCase
+  File "/usr/lib/python3.8/unittest/async_case.py", line 1, in <module>
+    import asyncio
+  File "/usr/lib/python3.8/asyncio/__init__.py", line 8, in <module>
+    from .base_events import *
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 18, in <module>
+    import concurrent.futures
+  File "/usr/lib/python3.8/concurrent/futures/__init__.py", line 8, in <module>
+    from concurrent.futures._base import (FIRST_COMPLETED,
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 7, in <module>
+    import logging
+  File "/usr/lib/python3.8/logging/__init__.py", line 28, in <module>
+    from string import Template
+ImportError: cannot import name 'Template' from 'string' (/home/hello/Documents/bootcamp/lection2/string.py)
+Error in sys.excepthook:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/apport_python_hook.py", line 72, in apport_excepthook
+    from apport.fileutils import likely_packaged, get_recent_crashes
+  File "/usr/lib/python3/dist-packages/apport/__init__.py", line 5, in <module>
+    from apport.report import Report
+  File "/usr/lib/python3/dist-packages/apport/report.py", line 21, in <module>
+    from urllib.request import urlopen
+  File "/usr/lib/python3.8/urllib/request.py", line 88, in <module>
+    import http.client
+  File "/usr/lib/python3.8/http/client.py", line 71, in <module>
+    import email.parser
+  File "/usr/lib/python3.8/email/parser.py", line 12, in <module>
+    from email.feedparser import FeedParser, BytesFeedParser
+  File "/usr/lib/python3.8/email/feedparser.py", line 27, in <module>
+    from email._policybase import compat32
+  File "/usr/lib/python3.8/email/_policybase.py", line 7, in <module>
+    from email import header
+  File "/usr/lib/python3.8/email/header.py", line 16, in <module>
+    import email.quoprimime
+  File "/usr/lib/python3.8/email/quoprimime.py", line 44, in <module>
+    from string import ascii_letters, digits, hexdigits
+ImportError: cannot import name 'ascii_letters' from 'string' (/home/hello/Documents/bootcamp/lection2/string.py)
+
+Original exception was:
+Traceback (most recent call last):
+  File "/home/hello/Documents/bootcamp/lection2/string.py", line 115, in <module>
+    from unittest import result
+  File "/usr/lib/python3.8/unittest/__init__.py", line 60, in <module>
+    from .async_case import IsolatedAsyncioTestCase
+  File "/usr/lib/python3.8/unittest/async_case.py", line 1, in <module>
+    import asyncio
+  File "/usr/lib/python3.8/asyncio/__init__.py", line 8, in <module>
+    from .base_events import *
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 18, in <module>
+    import concurrent.futures
+  File "/usr/lib/python3.8/concurrent/futures/__init__.py", line 8, in <module>
+    from concurrent.futures._base import (FIRST_COMPLETED,
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 7, in <module>
+    import logging
+  File "/usr/lib/python3.8/logging/__init__.py", line 28, in <module>
+    from string import Template
+ImportError: cannot import name 'Template' from 'string' (/home/hello/Documents/bootcamp/lection2/string.py)
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+makers makers
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+Traceback (most recent call last):
+  File "/home/hello/Documents/bootcamp/lection2/string.py", line 121, in <module>
+    print(result1, result2)
+NameError: name 'result2' is not defined
+Error in sys.excepthook:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/apport_python_hook.py", line 72, in apport_excepthook
+    from apport.fileutils import likely_packaged, get_recent_crashes
+  File "/usr/lib/python3/dist-packages/apport/__init__.py", line 5, in <module>
+    from apport.report import Report
+  File "/usr/lib/python3/dist-packages/apport/report.py", line 21, in <module>
+    from urllib.request import urlopen
+  File "/usr/lib/python3.8/urllib/request.py", line 88, in <module>
+    import http.client
+  File "/usr/lib/python3.8/http/client.py", line 71, in <module>
+    import email.parser
+  File "/usr/lib/python3.8/email/parser.py", line 12, in <module>
+    from email.feedparser import FeedParser, BytesFeedParser
+  File "/usr/lib/python3.8/email/feedparser.py", line 27, in <module>
+    from email._policybase import compat32
+  File "/usr/lib/python3.8/email/_policybase.py", line 7, in <module>
+    from email import header
+  File "/usr/lib/python3.8/email/header.py", line 16, in <module>
+    import email.quoprimime
+  File "/usr/lib/python3.8/email/quoprimime.py", line 44, in <module>
+    from string import ascii_letters, digits, hexdigits
+  File "/home/hello/Documents/bootcamp/lection2/string.py", line 121, in <module>
+    print(result1, result2)
+NameError: name 'result2' is not defined
+
+Original exception was:
+Traceback (most recent call last):
+  File "/home/hello/Documents/bootcamp/lection2/string.py", line 121, in <module>
+    print(result1, result2)
+NameError: name 'result2' is not defined
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+makers
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+ma
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+mkr otap
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+['makers', 'bottcamp']
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+Makers Bootcamp
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+  File "/home/hello/Documents/bootcamp/lection2/string.py", line 136
+    string3 = 'Maker's Bootcamp'
+                     ^
+SyntaxError: invalid syntax
+Error in sys.excepthook:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/apport_python_hook.py", line 72, in apport_excepthook
+    from apport.fileutils import likely_packaged, get_recent_crashes
+  File "/usr/lib/python3/dist-packages/apport/__init__.py", line 5, in <module>
+    from apport.report import Report
+  File "/usr/lib/python3/dist-packages/apport/report.py", line 21, in <module>
+    from urllib.request import urlopen
+  File "/usr/lib/python3.8/urllib/request.py", line 88, in <module>
+    import http.client
+  File "/usr/lib/python3.8/http/client.py", line 71, in <module>
+    import email.parser
+  File "/usr/lib/python3.8/email/parser.py", line 12, in <module>
+    from email.feedparser import FeedParser, BytesFeedParser
+  File "/usr/lib/python3.8/email/feedparser.py", line 27, in <module>
+    from email._policybase import compat32
+  File "/usr/lib/python3.8/email/_policybase.py", line 7, in <module>
+    from email import header
+  File "/usr/lib/python3.8/email/header.py", line 16, in <module>
+    import email.quoprimime
+  File "/usr/lib/python3.8/email/quoprimime.py", line 44, in <module>
+    from string import ascii_letters, digits, hexdigits
+  File "/home/hello/Documents/bootcamp/lection2/string.py", line 136
+    string3 = 'Maker's Bootcamp'
+                     ^
+SyntaxError: invalid syntax
+
+Original exception was:
+  File "/home/hello/Documents/bootcamp/lection2/string.py", line 136
+    string3 = 'Maker's Bootcamp'
+                     ^
+SyntaxError: invalid syntax
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+Makers Bootcamp
+Maker's Bootcamp
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+i love maker's
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+Dear friend, 
+Welcome to Makers Bootcamp! Enjoy yor time here with us
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+Dear friend, 
+Welcome to Makers Bootcamp! 
+Enjoy yor time here with us
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+Dear friend, 
+Welcome to Makers Bootcamp! 
+Enjoy yor time here with us!
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+Dear friend, 
+
+Welcome to Makers Bootcamp! 
+Enjoy yor time here with us!
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+Dear friend, 
+Welcome to Makers Bootcamp! 
+Enjoy yor time here with us!
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+This is very long string.The length of string in puthon should not be more than 79 simvols.remember this
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ python3 string.py
+python3: can't open file 'string.py': [Errno 2] No such file or directory
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+languages:  Python: backend language Javascript: frontend
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+languages:  Python: backend language Javascript: frontend
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+languages:  Python: backend language Javascript: frontend language
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+languages:
+ Python: backend language
+Javascript: frontend language
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+languages:
+         Python: backend language
+Javascript: frontend language
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+languages:
+         Python: backend language
+        Javascript: frontend language
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+languages:
+         Python: backend language
+         Javascript: frontend language
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+for i in range(5): print(i)
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+for i in range(5):
+        print(i)
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+hello makers bootcamp
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+hello
+     makers
+           bootcamp
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+https://kaktus/
+ead     opiks/
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+https://kaktus/\news\topiks/\read
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+Traceback (most recent call last):
+  File "/home/hello/Documents/bootcamp/lection2/string.py", line 180, in <module>
+    print(string1, + string2)
+TypeError: bad operand type for unary +: 'str'
+Error in sys.excepthook:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/apport_python_hook.py", line 72, in apport_excepthook
+    from apport.fileutils import likely_packaged, get_recent_crashes
+  File "/usr/lib/python3/dist-packages/apport/__init__.py", line 5, in <module>
+    from apport.report import Report
+  File "/usr/lib/python3/dist-packages/apport/report.py", line 21, in <module>
+    from urllib.request import urlopen
+  File "/usr/lib/python3.8/urllib/request.py", line 88, in <module>
+    import http.client
+  File "/usr/lib/python3.8/http/client.py", line 71, in <module>
+    import email.parser
+  File "/usr/lib/python3.8/email/parser.py", line 12, in <module>
+    from email.feedparser import FeedParser, BytesFeedParser
+  File "/usr/lib/python3.8/email/feedparser.py", line 27, in <module>
+    from email._policybase import compat32
+  File "/usr/lib/python3.8/email/_policybase.py", line 7, in <module>
+    from email import header
+  File "/usr/lib/python3.8/email/header.py", line 16, in <module>
+    import email.quoprimime
+  File "/usr/lib/python3.8/email/quoprimime.py", line 44, in <module>
+    from string import ascii_letters, digits, hexdigits
+  File "/home/hello/Documents/bootcamp/lection2/string.py", line 180, in <module>
+    print(string1, + string2)
+TypeError: bad operand type for unary +: 'str'
+
+Original exception was:
+Traceback (most recent call last):
+  File "/home/hello/Documents/bootcamp/lection2/string.py", line 180, in <module>
+    print(string1, + string2)
+TypeError: bad operand type for unary +: 'str'
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+Traceback (most recent call last):
+  File "/home/hello/Documents/bootcamp/lection2/string.py", line 178, in <module>
+    print(string1, + string2)
+TypeError: bad operand type for unary +: 'str'
+Error in sys.excepthook:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/apport_python_hook.py", line 72, in apport_excepthook
+    from apport.fileutils import likely_packaged, get_recent_crashes
+  File "/usr/lib/python3/dist-packages/apport/__init__.py", line 5, in <module>
+    from apport.report import Report
+  File "/usr/lib/python3/dist-packages/apport/report.py", line 21, in <module>
+    from urllib.request import urlopen
+  File "/usr/lib/python3.8/urllib/request.py", line 88, in <module>
+    import http.client
+  File "/usr/lib/python3.8/http/client.py", line 71, in <module>
+    import email.parser
+  File "/usr/lib/python3.8/email/parser.py", line 12, in <module>
+    from email.feedparser import FeedParser, BytesFeedParser
+  File "/usr/lib/python3.8/email/feedparser.py", line 27, in <module>
+    from email._policybase import compat32
+  File "/usr/lib/python3.8/email/_policybase.py", line 7, in <module>
+    from email import header
+  File "/usr/lib/python3.8/email/header.py", line 16, in <module>
+    import email.quoprimime
+  File "/usr/lib/python3.8/email/quoprimime.py", line 44, in <module>
+    from string import ascii_letters, digits, hexdigits
+  File "/home/hello/Documents/bootcamp/lection2/string.py", line 178, in <module>
+    print(string1, + string2)
+TypeError: bad operand type for unary +: 'str'
+
+Original exception was:
+Traceback (most recent call last):
+  File "/home/hello/Documents/bootcamp/lection2/string.py", line 178, in <module>
+    print(string1, + string2)
+TypeError: bad operand type for unary +: 'str'
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+Traceback (most recent call last):
+  File "/home/hello/Documents/bootcamp/lection2/string.py", line 178, in <module>
+    print(string1, + string2)
+TypeError: bad operand type for unary +: 'str'
+Error in sys.excepthook:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/apport_python_hook.py", line 72, in apport_excepthook
+    from apport.fileutils import likely_packaged, get_recent_crashes
+  File "/usr/lib/python3/dist-packages/apport/__init__.py", line 5, in <module>
+    from apport.report import Report
+  File "/usr/lib/python3/dist-packages/apport/report.py", line 21, in <module>
+    from urllib.request import urlopen
+  File "/usr/lib/python3.8/urllib/request.py", line 88, in <module>
+    import http.client
+  File "/usr/lib/python3.8/http/client.py", line 71, in <module>
+    import email.parser
+  File "/usr/lib/python3.8/email/parser.py", line 12, in <module>
+    from email.feedparser import FeedParser, BytesFeedParser
+  File "/usr/lib/python3.8/email/feedparser.py", line 27, in <module>
+    from email._policybase import compat32
+  File "/usr/lib/python3.8/email/_policybase.py", line 7, in <module>
+    from email import header
+  File "/usr/lib/python3.8/email/header.py", line 16, in <module>
+    import email.quoprimime
+  File "/usr/lib/python3.8/email/quoprimime.py", line 44, in <module>
+    from string import ascii_letters, digits, hexdigits
+  File "/home/hello/Documents/bootcamp/lection2/string.py", line 178, in <module>
+    print(string1, + string2)
+TypeError: bad operand type for unary +: 'str'
+
+Original exception was:
+Traceback (most recent call last):
+  File "/home/hello/Documents/bootcamp/lection2/string.py", line 178, in <module>
+    print(string1, + string2)
+TypeError: bad operand type for unary +: 'str'
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+MakersBootcamp
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+I study atMakersBootcamp
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+I study at MakersBootcamp
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+  File "/home/hello/Documents/bootcamp/lection2/string.py", line 180
+    print('I study at ' + string1 + ' ' string2)
+                                        ^
+SyntaxError: invalid syntax
+Error in sys.excepthook:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/apport_python_hook.py", line 72, in apport_excepthook
+    from apport.fileutils import likely_packaged, get_recent_crashes
+  File "/usr/lib/python3/dist-packages/apport/__init__.py", line 5, in <module>
+    from apport.report import Report
+  File "/usr/lib/python3/dist-packages/apport/report.py", line 21, in <module>
+    from urllib.request import urlopen
+  File "/usr/lib/python3.8/urllib/request.py", line 88, in <module>
+    import http.client
+  File "/usr/lib/python3.8/http/client.py", line 71, in <module>
+    import email.parser
+  File "/usr/lib/python3.8/email/parser.py", line 12, in <module>
+    from email.feedparser import FeedParser, BytesFeedParser
+  File "/usr/lib/python3.8/email/feedparser.py", line 27, in <module>
+    from email._policybase import compat32
+  File "/usr/lib/python3.8/email/_policybase.py", line 7, in <module>
+    from email import header
+  File "/usr/lib/python3.8/email/header.py", line 16, in <module>
+    import email.quoprimime
+  File "/usr/lib/python3.8/email/quoprimime.py", line 44, in <module>
+    from string import ascii_letters, digits, hexdigits
+  File "/home/hello/Documents/bootcamp/lection2/string.py", line 180
+    print('I study at ' + string1 + ' ' string2)
+                                        ^
+SyntaxError: invalid syntax
+
+Original exception was:
+  File "/home/hello/Documents/bootcamp/lection2/string.py", line 180
+    print('I study at ' + string1 + ' ' string2)
+                                        ^
+SyntaxError: invalid syntax
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+I study at Makers Bootcamp
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+67
+Traceback (most recent call last):
+  File "/home/hello/Documents/bootcamp/lection2/string.py", line 183, in <module>
+    from unittest import result
+  File "/usr/lib/python3.8/unittest/__init__.py", line 60, in <module>
+    from .async_case import IsolatedAsyncioTestCase
+  File "/usr/lib/python3.8/unittest/async_case.py", line 1, in <module>
+    import asyncio
+  File "/usr/lib/python3.8/asyncio/__init__.py", line 8, in <module>
+    from .base_events import *
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 18, in <module>
+    import concurrent.futures
+  File "/usr/lib/python3.8/concurrent/futures/__init__.py", line 8, in <module>
+    from concurrent.futures._base import (FIRST_COMPLETED,
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 7, in <module>
+    import logging
+  File "/usr/lib/python3.8/logging/__init__.py", line 28, in <module>
+    from string import Template
+ImportError: cannot import name 'Template' from 'string' (/home/hello/Documents/bootcamp/lection2/string.py)
+Error in sys.excepthook:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/apport_python_hook.py", line 72, in apport_excepthook
+    from apport.fileutils import likely_packaged, get_recent_crashes
+  File "/usr/lib/python3/dist-packages/apport/__init__.py", line 5, in <module>
+    from apport.report import Report
+  File "/usr/lib/python3/dist-packages/apport/report.py", line 21, in <module>
+    from urllib.request import urlopen
+  File "/usr/lib/python3.8/urllib/request.py", line 88, in <module>
+    import http.client
+  File "/usr/lib/python3.8/http/client.py", line 71, in <module>
+    import email.parser
+  File "/usr/lib/python3.8/email/parser.py", line 12, in <module>
+    from email.feedparser import FeedParser, BytesFeedParser
+  File "/usr/lib/python3.8/email/feedparser.py", line 27, in <module>
+    from email._policybase import compat32
+  File "/usr/lib/python3.8/email/_policybase.py", line 7, in <module>
+    from email import header
+  File "/usr/lib/python3.8/email/header.py", line 16, in <module>
+    import email.quoprimime
+  File "/usr/lib/python3.8/email/quoprimime.py", line 44, in <module>
+    from string import ascii_letters, digits, hexdigits
+ImportError: cannot import name 'ascii_letters' from 'string' (/home/hello/Documents/bootcamp/lection2/string.py)
+
+Original exception was:
+Traceback (most recent call last):
+  File "/home/hello/Documents/bootcamp/lection2/string.py", line 183, in <module>
+    from unittest import result
+  File "/usr/lib/python3.8/unittest/__init__.py", line 60, in <module>
+    from .async_case import IsolatedAsyncioTestCase
+  File "/usr/lib/python3.8/unittest/async_case.py", line 1, in <module>
+    import asyncio
+  File "/usr/lib/python3.8/asyncio/__init__.py", line 8, in <module>
+    from .base_events import *
+  File "/usr/lib/python3.8/asyncio/base_events.py", line 18, in <module>
+    import concurrent.futures
+  File "/usr/lib/python3.8/concurrent/futures/__init__.py", line 8, in <module>
+    from concurrent.futures._base import (FIRST_COMPLETED,
+  File "/usr/lib/python3.8/concurrent/futures/_base.py", line 7, in <module>
+    import logging
+  File "/usr/lib/python3.8/logging/__init__.py", line 28, in <module>
+    from string import Template
+ImportError: cannot import name 'Template' from 'string' (/home/hello/Documents/bootcamp/lection2/string.py)
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+67
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+makersmakersmakersmakersmakers
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+6
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+4
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+s
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+s
+g
+ 
+d
+e
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+s
+g
+ 
+d
+e
+s
+g
+ 
+d
+e
+Traceback (most recent call last):
+  File "/home/hello/Documents/bootcamp/lection2/string.py", line 209, in <module>
+    print(sentence[20])
+IndexError: string index out of range
+Error in sys.excepthook:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/apport_python_hook.py", line 72, in apport_excepthook
+    from apport.fileutils import likely_packaged, get_recent_crashes
+  File "/usr/lib/python3/dist-packages/apport/__init__.py", line 5, in <module>
+    from apport.report import Report
+  File "/usr/lib/python3/dist-packages/apport/report.py", line 21, in <module>
+    from urllib.request import urlopen
+  File "/usr/lib/python3.8/urllib/request.py", line 88, in <module>
+    import http.client
+  File "/usr/lib/python3.8/http/client.py", line 71, in <module>
+    import email.parser
+  File "/usr/lib/python3.8/email/parser.py", line 12, in <module>
+    from email.feedparser import FeedParser, BytesFeedParser
+  File "/usr/lib/python3.8/email/feedparser.py", line 27, in <module>
+    from email._policybase import compat32
+  File "/usr/lib/python3.8/email/_policybase.py", line 7, in <module>
+    from email import header
+  File "/usr/lib/python3.8/email/header.py", line 16, in <module>
+    import email.quoprimime
+  File "/usr/lib/python3.8/email/quoprimime.py", line 44, in <module>
+    from string import ascii_letters, digits, hexdigits
+  File "/home/hello/Documents/bootcamp/lection2/string.py", line 209, in <module>
+    print(sentence[20])
+IndexError: string index out of range
+
+Original exception was:
+Traceback (most recent call last):
+  File "/home/hello/Documents/bootcamp/lection2/string.py", line 209, in <module>
+    print(sentence[20])
+IndexError: string index out of range
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+s
+g
+ 
+d
+e
+d
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+19
+s
+g
+ 
+d
+e
+d
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+mak
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+mak
+mak
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+kers bootca
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+makers bootcamp
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+pmactoob srekam
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+e
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+ksocp
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+makers bootcamp
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+cream
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ 
+
+
+

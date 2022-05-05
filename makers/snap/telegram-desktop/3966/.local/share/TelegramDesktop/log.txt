@@ -1,0 +1,406 @@
+[2022.04.26 15:51:26] Launched version: 3007002, install beta: [FALSE], alpha: 0, debug mode: [FALSE]
+[2022.04.26 15:51:26] Executable dir: /snap/telegram-desktop/3966/usr/bin/, name: telegram-desktop
+[2022.04.26 15:51:26] Initial working dir: /home/hello/
+[2022.04.26 15:51:26] Working dir: /home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/
+[2022.04.26 15:51:26] Command line: telegram-desktop --
+[2022.04.26 15:51:26] Executable path before check: /snap/telegram-desktop/3966/usr/bin/telegram-desktop
+[2022.04.26 15:51:26] Logs started
+[2022.04.26 15:51:26] Launcher filename: telegram-desktop_telegram-desktop.desktop
+[2022.04.26 15:51:26] Getting DE, XDG_CURRENT_DESKTOP: 'ubuntu:GNOME'
+[2022.04.26 15:51:26] Getting DE, XDG_SESSION_DESKTOP: 'ubuntu'
+[2022.04.26 15:51:26] Getting DE, DESKTOP_SESSION: 'ubuntu'
+[2022.04.26 15:51:26] Getting DE via WM: 'GNOME Shell'
+[2022.04.26 15:51:26] Getting DE, GNOME_DESKTOP_SESSION_ID: 'this-is-deprecated'
+[2022.04.26 15:51:26] Getting DE, KDE_FULL_SESSION: ''
+[2022.04.26 15:51:26] DE: Gnome
+[2022.04.26 15:51:26] Connecting local socket to /run/user/1000/snap.telegram-desktop/acd5bdfca63e501e7ffa320fe3603d79...
+[2022.04.26 15:51:26] This is the only instance of Telegram, starting server and app...
+[2022.04.26 15:51:26] Moved logging from '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/log_start2.txt' to '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/log.txt'!
+[2022.04.26 15:51:26] Old start log 'log_start0.txt' found, deleted: [TRUE]
+[2022.04.26 15:51:26] Old start log 'log_start1.txt' found, deleted: [TRUE]
+[2022.04.26 15:51:26] Primary screen DPI: 96
+[2022.04.26 15:51:26] Font: from ':/gui/fonts/DAOpenSansRegular.ttf' loaded 'DAOpenSansRegular'
+[2022.04.26 15:51:26] Font: from ':/gui/fonts/DAVazirRegular.ttf' loaded 'DAVazirRegular'
+[2022.04.26 15:51:26] Font: from ':/gui/fonts/DAOpenSansRegularItalic.ttf' loaded 'DAOpenSansRegularItalic'
+[2022.04.26 15:51:26] Font: from ':/gui/fonts/DAVazirRegular.ttf' loaded 'DAVazirRegular'
+[2022.04.26 15:51:26] Font: from ':/gui/fonts/DAOpenSansSemiboldAsBold.ttf' loaded 'DAOpenSansSemibold'
+[2022.04.26 15:51:26] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2022.04.26 15:51:26] Font: from ':/gui/fonts/DAOpenSansSemiboldItalicAsBold.ttf' loaded 'DAOpenSansSemiboldItalic'
+[2022.04.26 15:51:26] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2022.04.26 15:51:26] Font: from ':/gui/fonts/DAOpenSansSemiboldAsBold.ttf' loaded 'DAOpenSansSemibold'
+[2022.04.26 15:51:26] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2022.04.26 15:51:26] Font: from ':/gui/fonts/DAOpenSansSemiboldItalicAsBold.ttf' loaded 'DAOpenSansSemiboldItalic'
+[2022.04.26 15:51:26] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2022.04.26 15:51:26] Icon theme: Yaru
+[2022.04.26 15:51:26] Fallback icon theme: 
+[2022.04.26 15:51:26] App Info: reading settings...
+[2022.04.26 15:51:26] App Info: reading encrypted settings...
+[2022.04.26 15:51:26] Lang Info: Loaded cached, keys: 3661
+[2022.04.26 15:51:26] OpenAL Logging Level: (not set)
+[2022.04.26 15:51:26] Audio Playback Devices: Built-in Audio Analog Stereo
+[2022.04.26 15:51:26] Audio Playback Default Device: Built-in Audio Analog Stereo
+[2022.04.26 15:51:26] Audio Capture Devices: Built-in Audio Analog Stereo;Monitor of Built-in Audio Analog Stereo
+[2022.04.26 15:51:26] Audio Capture Default Device: Built-in Audio Analog Stereo
+[2022.04.26 15:51:27] Using Unity launcher counter.
+[2022.04.26 15:51:27] System tray available: [TRUE]
+[2022.04.26 15:51:27] App Info: reading accounts info...
+[2022.04.26 15:51:27] App Info: reading encrypted info...
+[2022.04.26 15:51:27] App Info: reading map...
+[2022.04.26 15:51:27] App Info: reading encrypted map...
+[2022.04.26 15:51:27] App Info: reading encrypted user settings...
+[2022.04.26 15:51:27] App Info: encrypted user settings read.
+[2022.04.26 15:51:27] App Info: reading encrypted mtp data...
+[2022.04.26 15:51:27] MTP Info: read keys, current: 5, to destroy: 0
+[2022.04.26 15:51:27] Map read time: 28
+[2022.04.26 15:51:27] App Info: reading encrypted mtp config...
+[2022.04.26 15:51:28] Export Info: Destroy top bar by controller removal.
+[2022.04.26 15:51:29] OpenGL Profile: Compatibility.
+[2022.04.26 15:51:29] OpenGL Renderer: Mesa Intel(R) UHD Graphics (CML GT2)
+[2022.04.26 15:51:29] OpenGL Vendor: Intel
+[2022.04.26 15:51:29] OpenGL Version: 4.6 (Compatibility Profile) Mesa 21.2.6
+[2022.04.26 15:51:29] OpenGL Extensions: GL_ARB_base_instance, GL_ARB_texture_cube_map_array, GL_ARB_transform_feedback_instanced, GL_ARB_conservative_depth, GL_SGIS_texture_border_clamp, GL_EXT_texture_rectangle, GL_ARB_texture_cube_map, GL_ARB_depth_buffer_float, GL_ARB_shader_texture_lod, GL_ARB_derivative_control, GL_KHR_debug, GL_ARB_fragment_layer_viewport, GL_ARB_invalidate_subdata, GL_EXT_texture_compression_dxt1, GL_EXT_vertex_array, GL_ARB_draw_buffers, GL_ARB_texture_rgb10_a2ui, GL_EXT_texture_shadow_lod, GL_EXT_memory_object_fd, GL_NV_compute_shader_derivatives, GL_EXT_semaphore, GL_ARB_framebuffer_sRGB, GL_EXT_draw_instanced, GL_EXT_draw_range_elements, GL_ARB_seamless_cube_map, GL_ARB_direct_state_access, GL_EXT_blend_color, GL_EXT_semaphore_fd, GL_ATI_texture_env_combine3, GL_ARB_shader_draw_parameters, GL_EXT_framebuffer_multisample_blit_scaled, GL_ARB_map_buffer_range, GL_KHR_blend_equation_advanced, GL_ARB_texture_env_crossbar, GL_NV_half_float, GL_NV_packed_depth_stencil, GL_ARB_texture_filter_anisotropic, GL_EXT_texture_lod_bias, GL_AMD_shader_stencil_export, GL_ANGLE_texture_compression_dxt3, GL_ARB_debug_output, GL_ARB_depth_clamp, GL_ARB_texture_non_power_of_two, GL_S3_s3tc, GL_ARB_transform_feedback3, GL_INTEL_shader_atomic_float_minmax, GL_KHR_blend_equation_advanced_coherent, GL_KHR_robust_buffer_access_behavior, GL_AMD_shader_trinary_minmax, GL_ARB_ES3_compatibility, GL_ARB_fragment_shader_interlock, GL_EXT_copy_texture, GL_EXT_separate_specular_color, GL_EXT_texture_swizzle, GL_ARB_draw_instanced, GL_AMD_multi_draw_indirect, GL_ARB_transform_feedback2, GL_ARB_transpose_matrix, GL_3DFX_texture_compression_FXT1, GL_ARB_explicit_attrib_location, GL_ARB_shader_texture_image_samples, GL_ARB_shader_ballot, GL_ARB_draw_elements_base_vertex, GL_ARB_texture_barrier, GL_EXT_demote_to_helper_invocation, GL_ARB_color_buffer_float, GL_EXT_blend_equation_separate, GL_EXT_texture_array, GL_ARB_texture_border_clamp, GL_ARB_compressed_texture_pixel_storage, GL_NV_copy_image, GL_ARB_transform_feedback_overflow_query, GL_APPLE_packed_pixels, GL_ARB_shader_clock, GL_EXT_texture_snorm, GL_EXT_abgr, GL_NV_texture_rectangle, GL_ARB_depth_texture, GL_ARB_texture_stencil8, GL_EXT_shader_framebuffer_fetch_non_coherent, GL_EXT_draw_buffers2, GL_ARB_conditional_render_inverted, GL_ARB_window_pos, GL_ARB_half_float_vertex, GL_KHR_no_error, GL_EXT_packed_float, GL_ARB_texture_query_lod, GL_EXT_provoking_vertex, GL_ARB_uniform_buffer_object, GL_MESA_framebuffer_flip_y, GL_ARB_compute_variable_group_size, GL_ARB_framebuffer_no_attachments, GL_ARB_framebuffer_object, GL_ARB_vertex_type_2_10_10_10_rev, GL_EXT_stencil_two_side, GL_ARB_texture_env_add, GL_EXT_texture_env_combine, GL_ARB_shader_storage_buffer_object, GL_ARB_texture_float, GL_NV_conditional_render, GL_ARB_vertex_shader, GL_ARB_texture_rectangle, GL_EXT_texture_filter_anisotropic, GL_AMD_query_buffer_object, GL_EXT_texture_compression_rgtc, GL_ARB_compute_shader, GL_ARB_texture_buffer_object_rgb32, GL_ARB_polygon_offset_clamp, GL_ARB_vertex_attrib_64bit, GL_ARB_blend_func_extended, GL_ARB_shading_language_100, GL_ANGLE_texture_compression_dxt5, GL_AMD_vertex_shader_viewport_index, GL_ARB_fragment_shader, GL_EXT_EGL_image_storage, GL_ARB_get_texture_sub_image, GL_ARB_gl_spirv, GL_ARB_texture_storage_multisample, GL_ARB_shader_precision, GL_ARB_indirect_parameters, GL_ARB_compatibility, GL_EXT_shader_framebuffer_fetch, GL_ARB_multitexture, GL_ARB_texture_env_dot3, GL_ARB_sampler_objects, GL_EXT_gpu_shader4, GL_EXT_multi_draw_arrays, GL_MESA_shader_integer_functions, GL_ARB_fragment_program_shadow, GL_ARB_shader_image_size, GL_ARB_vertex_buffer_object, GL_EXT_framebuffer_multisample, GL_EXT_blend_minmax, GL_ARB_program_interface_query, GL_ARB_point_parameters, GL_ARB_texture_compression, GL_EXT_point_parameters, GL_AMD_conservative_depth, GL_ARB_gpu_shader_int64, GL_NV_texture_barrier, GL_ARB_query_buffer_object, GL_EXT_shader_integer_mix, GL_ARB_point_sprite, GL_ARB_shader_stencil_export, GL_EXT_texture_buffer_object, GL_AMD_pinned_memory, GL_ARB_clear_buffer_object, GL_EXT_texture_edge_clamp, GL_ARB_stencil_texturing, GL_AMD_depth_clamp_separate, GL_ARB_texture_storage, GL_NV_texture_env_combine4, GL_ARB_texture_mirror_clamp_to_edge, GL_ARB_texture_query_levels, GL_INGR_blend_func_separate, GL_AMD_vertex_shader_layer, GL_EXT_direct_state_access, GL_ARB_get_program_binary, GL_SUN_multi_draw_arrays, GL_ARB_fragment_program, GL_EXT_texture_integer, GL_ARB_vertex_type_10f_11f_11f_rev, GL_ARB_shader_group_vote, GL_EXT_subtexture, GL_ARB_cull_distance, GL_AMD_texture_texture4, GL_EXT_framebuffer_sRGB, GL_NV_blend_square, GL_KHR_texture_compression_astc_sliced_3d, GL_EXT_texture_sRGB, GL_ARB_enhanced_layouts, GL_ARB_shader_atomic_counter_ops, GL_ARB_texture_buffer_range, GL_EXT_texture_sRGB_decode, GL_ARB_timer_query, GL_ARB_robust_buffer_access_behavior, GL_ARB_separate_shader_objects, GL_KHR_texture_compression_astc_ldr, GL_EXT_fog_coord, GL_ARB_sync, GL_SGIS_texture_edge_clamp, GL_SGIS_generate_mipmap, GL_ARB_texture_multisample, GL_ARB_shading_language_420pack, GL_ARB_multi_bind, GL_ARB_robustness, GL_EXT_texture_sRGB_R8, GL_ARB_shader_atomic_counters, GL_EXT_texture_shared_exponent, GL_NV_copy_depth_to_color, GL_ARB_clear_texture, GL_ARB_clip_control, GL_EXT_vertex_array_bgra, GL_AMD_seamless_cubemap_per_texture, GL_EXT_secondary_color, GL_ARB_gpu_shader_fp64, GL_ARB_internalformat_query, GL_ARB_viewport_array, GL_ARB_draw_indirect, GL_ARB_provoking_vertex, GL_ARB_shading_language_packing, GL_ARB_vertex_array_object, GL_NV_texgen_reflection, GL_EXT_texture3D, GL_INTEL_shader_integer_functions2, GL_ARB_shader_bit_encoding, GL_OES_read_format, GL_ARB_shading_language_include, GL_EXT_gpu_program_parameters, GL_ARB_parallel_shader_compile, GL_ARB_multisample, GL_ARB_pipeline_statistics_query, GL_INTEL_performance_query, GL_EXT_texture_cube_map, GL_ARB_pixel_buffer_object, GL_ARB_shadow, GL_ARB_instanced_arrays, GL_ARB_multi_draw_indirect, GL_ARB_vertex_program, GL_MESA_texture_signed_rgba, GL_EXT_EGL_sync, GL_KHR_context_flush_control, GL_EXT_texture_compression_s3tc, GL_EXT_blend_subtract, GL_ARB_shader_objects, GL_NV_primitive_restart, GL_EXT_texture_env_dot3, GL_ARB_texture_mirrored_repeat, GL_ARB_shader_viewport_layer_array, GL_ARB_vertex_array_bgra, GL_MESA_window_pos, GL_EXT_packed_pixels, GL_ARB_texture_compression_bptc, GL_ARB_arrays_of_arrays, GL_NV_fog_distance, GL_EXT_texture, GL_EXT_stencil_wrap, GL_ARB_ES3_1_compatibility, GL_EXT_framebuffer_object, GL_IBM_multimode_draw_arrays, GL_ARB_spirv_extensions, GL_ATI_draw_buffers, GL_ATI_blend_equation_separate, GL_EXT_timer_query, GL_NV_light_max_exponent, GL_EXT_compiled_vertex_array, GL_EXT_packed_depth_stencil, GL_NV_fragment_shader_interlock, GL_OES_EGL_image, GL_ARB_copy_image, GL_MESA_pack_invert, GL_ARB_explicit_uniform_location, GL_EXT_memory_object, GL_EXT_vertex_attrib_64bit, GL_ARB_half_float_pixel, GL_ARB_internalformat_query2, GL_EXT_shadow_funcs, GL_ARB_post_depth_coverage, GL_ARB_draw_buffers_blend, GL_ARB_sample_shading, GL_ARB_texture_view, GL_ARB_seamless_cubemap_per_texture, GL_EXT_blend_func_separate, GL_NV_depth_clamp, GL_ARB_vertex_attrib_binding, GL_IBM_rasterpos_clip, GL_ATI_fragment_shader, GL_EXT_texture_env_add, GL_ARB_shader_image_load_store, GL_ATI_texture_float, GL_SGIS_texture_lod, GL_ARB_texture_env_combine, GL_ARB_texture_swizzle, GL_ATI_separate_stencil, GL_EXT_rescale_normal, GL_KHR_robustness, GL_EXT_framebuffer_blit, GL_ARB_ES2_compatibility, GL_EXT_polygon_offset_clamp, GL_EXT_transform_feedback, GL_ARB_buffer_storage, GL_ARB_texture_gather, GL_ARB_copy_buffer, GL_EXT_shader_samples_identical, GL_AMD_draw_buffers_blend, GL_IBM_texture_mirrored_repeat, GL_ARB_tessellation_shader, GL_INTEL_blackhole_render, GL_EXT_pixel_buffer_object, GL_ARB_shader_subroutine, GL_ARB_map_buffer_alignment, GL_EXT_texture_object, GL_ARB_texture_rg, GL_ARB_occlusion_query, GL_ARB_fragment_coord_conventions, GL_KHR_parallel_shader_compile, GL_ARB_gpu_shader5, GL_ARB_occlusion_query2, GL_AMD_performance_monitor, GL_EXT_bgra, GL_ARB_texture_buffer_object, GL_ARB_texture_compression_rgtc
+[2022.04.26 15:51:29] OpenGL: QOpenGLContext created, version: 4.4.
+[2022.04.26 15:51:29] OpenGL: [TRUE] (OverlayWidget)
+[2022.04.26 15:51:30] API Warning: not loaded minimal channel applied.
+[2022.04.26 17:50:35] Message Info: bad message notification received (error_code 16) for msg_id = 7090862131249470560, seq_no = 484
+[2022.04.26 17:50:35] Message Info: bad message notification received (error_code 16) for msg_id = 7090862131700267544, seq_no = 484
+[2022.04.26 17:51:20] Could not send ping for some seconds, restarting...
+[2022.04.27 09:59:13] RPC Error: request 197 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2022.04.27 09:59:14] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.27 09:59:16] Audio Info: Closing audio playback device.
+[2022.04.27 10:00:25] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.27 10:00:27] Audio Info: Closing audio playback device.
+[2022.04.27 10:07:31] Message Info: bad message notification received (error_code 16) for msg_id = 7091128531929057508, seq_no = 689
+[2022.04.27 10:08:04] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.27 10:08:06] Audio Info: Closing audio playback device.
+[2022.04.27 10:08:42] Message Info: bad message notification received (error_code 33) for msg_id = 7091130710060361420, seq_no = 736
+[2022.04.27 10:08:42] Message Info: bad message notification received, msgId 7091130710060361420, error_code 33
+[2022.04.27 10:10:41] App Info: writing encrypted user settings...
+[2022.04.27 10:10:43] Message Info: bad message notification received (error_code 33) for msg_id = 7091131229685213736, seq_no = 20
+[2022.04.27 10:10:43] Message Info: bad message notification received, msgId 7091131229685213736, error_code 33
+[2022.04.27 10:10:43] Message Info: bad message notification received (error_code 33) for msg_id = 7091131229685923864, seq_no = 50
+[2022.04.27 10:10:43] Message Info: bad message notification received, msgId 7091131229685923864, error_code 33
+[2022.04.27 10:10:43] Message Info: bad message notification received (error_code 33) for msg_id = 7091131230017941576, seq_no = 52
+[2022.04.27 10:10:43] Message Info: bad message notification received, msgId 7091131230017941576, error_code 33
+[2022.04.27 10:13:08] App Info: writing encrypted user settings...
+[2022.04.27 10:13:09] RPC Error: request 836 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2022.04.27 10:13:09] RPC Error: request 835 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2022.04.27 10:13:10] App Info: writing encrypted user settings...
+[2022.04.27 10:22:40] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.27 10:22:42] Audio Info: Closing audio playback device.
+[2022.04.27 10:36:59] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.27 10:37:01] Audio Info: Closing audio playback device.
+[2022.04.27 10:37:12] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.27 10:37:14] Audio Info: Closing audio playback device.
+[2022.04.27 11:00:16] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.27 11:00:18] Audio Info: Closing audio playback device.
+[2022.04.27 11:43:52] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.27 11:43:54] Audio Info: Closing audio playback device.
+[2022.04.27 11:48:45] Message Info: bad message notification received (error_code 33) for msg_id = 7091156466870756852, seq_no = 872
+[2022.04.27 11:48:45] Message Info: bad message notification received, msgId 7091156466870756852, error_code 33
+[2022.04.27 11:49:24] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.27 11:49:26] Audio Info: Closing audio playback device.
+[2022.04.27 11:50:14] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.27 11:50:16] Audio Info: Closing audio playback device.
+[2022.04.27 11:59:02] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.27 11:59:02] OpenGL: [TRUE] (Window)
+[2022.04.27 14:06:51] API Warning: not loaded minimal channel applied.
+[2022.04.27 14:06:52] Audio Info: Closing audio playback device.
+[2022.04.27 14:07:05] RPC Error: request 1260 got fail with code 400, error PEER_ID_INVALID
+[2022.04.27 14:07:32] Could not send ping for some seconds, restarting...
+[2022.04.27 14:07:41] Skipping message, because it is already in blocks!
+[2022.04.27 14:14:57] API Warning: not loaded minimal channel applied.
+[2022.04.27 14:29:59] RPC Error: request 1354 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2022.04.27 14:29:59] RPC Error: request 1353 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2022.04.27 14:29:59] RPC Error: request 1355 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2022.04.27 14:30:00] Message Info: bad message notification received (error_code 33) for msg_id = 7091198020679841804, seq_no = 6
+[2022.04.27 14:30:00] Message Info: bad message notification received (error_code 33) for msg_id = 7091198020679802308, seq_no = 6
+[2022.04.27 14:30:00] Message Info: bad message notification received, msgId 7091198020679841804, error_code 33
+[2022.04.27 14:30:00] Message Info: bad message notification received (error_code 33) for msg_id = 7091198020679915764, seq_no = 6
+[2022.04.27 14:30:00] Message Info: bad message notification received, msgId 7091198020679802308, error_code 33
+[2022.04.27 14:30:00] Message Info: bad message notification received, msgId 7091198020679915764, error_code 33
+[2022.04.27 15:00:10] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.27 15:00:13] Audio Info: Closing audio playback device.
+[2022.04.27 15:51:32] MTP Info: -404 error received in 2 with temporary key, assuming it was destroyed.
+[2022.04.27 16:31:34] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.27 16:31:36] Audio Info: Closing audio playback device.
+[2022.04.27 16:43:30] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.27 16:43:32] Audio Info: Closing audio playback device.
+[2022.04.27 16:47:29] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.27 16:47:31] Audio Info: Closing audio playback device.
+[2022.04.27 17:55:12] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.27 17:55:14] Audio Info: Closing audio playback device.
+[2022.04.27 18:23:35] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.04.27 18:23:35] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.04.28 10:28:30] Config Error: No 'Date' header received.
+[2022.04.28 10:28:31] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.04.28 10:28:31] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.04.28 10:28:32] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.28 10:28:33] MTP Info: -404 error received in 170002 with temporary key, assuming it was destroyed.
+[2022.04.28 10:28:34] Audio Info: Closing audio playback device.
+[2022.04.28 10:29:16] Could not send ping for some seconds, restarting...
+[2022.04.28 10:32:06] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.28 10:32:09] Audio Info: Closing audio playback device.
+[2022.04.28 10:34:41] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.28 10:34:44] Audio Info: Closing audio playback device.
+[2022.04.28 10:35:44] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.04.28 10:35:44] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.04.28 10:57:09] Message Info: bad message notification received (error_code 33) for msg_id = 7091514261043789752, seq_no = 1606
+[2022.04.28 11:01:01] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.28 11:01:03] Audio Info: Closing audio playback device.
+[2022.04.28 11:39:54] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.04.28 11:39:54] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.04.28 12:01:33] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.04.28 12:01:33] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.04.28 13:39:36] Message Info: bad message notification received (error_code 16) for msg_id = 7091530850733273820, seq_no = 10
+[2022.04.28 13:39:36] Message Info: bad message notification received (error_code 16) for msg_id = 7091530851199052160, seq_no = 10
+[2022.04.28 13:39:36] Message Info: bad message notification received (error_code 16) for msg_id = 7091530851652781592, seq_no = 10
+[2022.04.28 13:39:36] Message Info: bad message notification received (error_code 16) for msg_id = 7091530852102268356, seq_no = 10
+[2022.04.28 13:39:36] Message Info: bad message notification received (error_code 16) for msg_id = 7091530852553962480, seq_no = 10
+[2022.04.28 13:39:36] Message Info: bad message notification received (error_code 16) for msg_id = 7091530853011870184, seq_no = 10
+[2022.04.28 13:39:37] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.28 13:39:38] RPC Error: request 2268 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2022.04.28 13:39:38] Message Info: bad message notification received (error_code 33) for msg_id = 7091556131776210656, seq_no = 32
+[2022.04.28 13:39:38] Message Info: bad message notification received, msgId 7091556131776210656, error_code 33
+[2022.04.28 13:39:39] Audio Info: Closing audio playback device.
+[2022.04.28 14:38:32] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.04.28 14:38:32] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.04.28 15:03:19] API Warning: not loaded minimal channel applied.
+[2022.04.28 15:42:00] API Warning: not loaded minimal channel applied.
+[2022.04.28 15:46:55] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.04.28 15:46:55] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.04.28 15:51:42] MTP Info: -404 error received in 2 with temporary key, assuming it was destroyed.
+[2022.04.28 16:00:39] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.28 16:00:41] Audio Info: Closing audio playback device.
+[2022.04.28 16:20:46] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.28 16:20:48] Audio Info: Closing audio playback device.
+[2022.04.28 16:47:34] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.04.28 16:47:34] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.04.28 16:59:25] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.28 16:59:28] Audio Info: Closing audio playback device.
+[2022.04.28 17:00:25] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.28 17:00:28] Audio Info: Closing audio playback device.
+[2022.04.28 17:21:31] RPC Error: request 2791 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2022.04.28 17:46:14] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.04.28 17:46:14] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.04.28 17:51:42] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.04.28 17:51:42] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.04.29 09:51:52] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.04.29 09:51:52] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.04.29 09:51:54] RPC Error: request 2947 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2022.04.29 09:51:54] Message Info: bad message notification received (error_code 33) for msg_id = 7091868551771590480, seq_no = 964
+[2022.04.29 09:51:54] Message Info: bad message notification received, msgId 7091868551771590480, error_code 33
+[2022.04.29 09:55:51] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.29 09:55:53] Audio Info: Closing audio playback device.
+[2022.04.29 10:06:53] RPC Error: request 3003 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2022.04.29 10:11:34] Message Info: bad message notification received (error_code 33) for msg_id = 7091873619034186020, seq_no = 218
+[2022.04.29 10:17:12] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.29 10:17:14] Audio Info: Closing audio playback device.
+[2022.04.29 10:18:41] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.29 10:18:43] Audio Info: Closing audio playback device.
+[2022.04.29 10:21:02] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.29 10:21:04] Audio Info: Closing audio playback device.
+[2022.04.29 10:31:09] MTP Info: -404 error received in 160002 with temporary key, assuming it was destroyed.
+[2022.04.29 10:53:38] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.04.29 10:53:38] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.04.29 11:51:33] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.29 11:51:35] Audio Info: Closing audio playback device.
+[2022.04.29 12:02:08] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.04.29 12:02:08] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.04.29 12:24:58] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.29 12:25:00] Audio Info: Closing audio playback device.
+[2022.04.29 13:00:19] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.29 13:00:21] Audio Info: Closing audio playback device.
+[2022.04.29 13:01:23] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.04.29 13:01:23] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.04.29 16:35:29] MTP Info: -404 error received in 2 with temporary key, assuming it was destroyed.
+[2022.04.29 16:35:30] Message Info: bad message notification received (error_code 16) for msg_id = 7091918141116947148, seq_no = 4
+[2022.04.29 16:35:31] Config Error: Failed to parse dns response JSON, error: illegal value
+[2022.04.29 16:35:31] Config Error: Bad data size 0 required 344
+[2022.04.29 16:35:32] Config Error: No 'Date' header received.
+[2022.04.29 16:35:32] Message Info: bad message notification received (error_code 16) for msg_id = 7091918148131129156, seq_no = 4
+[2022.04.29 16:35:32] MTP Info: -404 error received in 1004 with temporary key, assuming it was destroyed.
+[2022.04.29 16:35:34] Message Info: bad message notification received (error_code 16) for msg_id = 7091918156979042644, seq_no = 4
+[2022.04.29 16:35:38] Config Error: No 'Date' header received.
+[2022.04.29 16:35:40] Message Info: bad message notification received (error_code 16) for msg_id = 7091918183282846924, seq_no = 4
+[2022.04.29 16:35:45] Config Error: Failed to parse dns response JSON, error: illegal value
+[2022.04.29 16:35:45] Config Error: Bad data size 0 required 344
+[2022.04.29 16:35:46] Config Error: No 'Date' header received.
+[2022.04.29 16:36:01] Message Info: bad message notification received (error_code 16) for msg_id = 7091918261281856092, seq_no = 8
+[2022.04.29 16:36:01] MTP Info: -404 error received in 10001 with temporary key, assuming it was destroyed.
+[2022.04.29 16:36:01] Config Error: Failed to parse dns response JSON, error: illegal value
+[2022.04.29 16:36:01] Config Error: Bad data size 0 required 344
+[2022.04.29 16:36:02] Config Error: No 'Date' header received.
+[2022.04.29 16:36:02] Config Error: Bad date frame for simple config: 1641696876-1644288876, our time is 1651228562.
+[2022.04.29 16:36:02] Message Info: bad message notification received (error_code 16) for msg_id = 7091918269185957336, seq_no = 4
+[2022.04.29 16:36:03] Config Error: Bad date frame for simple config: 1641696876-1644288876, our time is 1651228564.
+[2022.04.29 16:36:03] Config Error: Failed to parse fire response JSON, error: illegal value
+[2022.04.29 16:36:03] Config Error: Bad data size 0 required 344
+[2022.04.29 16:36:04] Config Error: Failed to parse dns response JSON, error: illegal value
+[2022.04.29 16:36:04] Config Error: Bad data size 0 required 344
+[2022.04.29 16:36:05] Config Error: No 'Date' header received.
+[2022.04.29 16:36:07] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.04.29 16:36:07] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.04.29 16:36:11] Config Error: Failed to parse dns response JSON, error: illegal value
+[2022.04.29 16:36:11] Config Error: Bad data size 0 required 344
+[2022.04.29 16:36:12] Config Error: No 'Date' header received.
+[2022.04.29 16:36:13] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.04.29 16:36:13] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.04.29 16:36:14] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.04.29 16:36:14] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.04.29 16:36:37] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.04.29 16:36:37] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.04.29 16:36:38] Audio Info: recreating audio device and reattaching the tracks
+[2022.04.29 16:36:38] MTP Info: -404 error received in 160004 with temporary key, assuming it was destroyed.
+[2022.04.29 16:36:40] Audio Info: Closing audio playback device.
+[2022.05.03 12:09:37] MTP Info: -404 error received in 2 with temporary key, assuming it was destroyed.
+[2022.05.03 12:09:37] Config Error: Failed to parse dns response JSON, error: illegal value
+[2022.05.03 12:09:37] Config Error: Bad data size 0 required 344
+[2022.05.03 12:09:38] Config Error: Failed to parse dns response JSON, error: illegal value
+[2022.05.03 12:09:38] Config Error: Bad data size 0 required 344
+[2022.05.03 12:09:38] Message Info: bad message notification received (error_code 16) for msg_id = 7091974493913445604, seq_no = 4
+[2022.05.03 12:09:38] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.05.03 12:09:38] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.05.03 12:10:22] Could not send ping for some seconds, restarting...
+[2022.05.03 12:10:23] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.05.03 12:10:23] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.05.03 12:10:25] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.03 12:10:26] API Warning: not loaded minimal channel applied.
+[2022.05.03 12:10:28] MTP Info: -404 error received in 170002 with temporary key, assuming it was destroyed.
+[2022.05.03 12:10:28] MTP Info: -404 error received in 160002 with temporary key, assuming it was destroyed.
+[2022.05.03 12:10:28] MTP Info: -404 error received in 230002 with temporary key, assuming it was destroyed.
+[2022.05.03 12:10:28] MTP Info: -404 error received in 210002 with temporary key, assuming it was destroyed.
+[2022.05.03 12:10:28] MTP Info: -404 error received in 200002 with temporary key, assuming it was destroyed.
+[2022.05.03 12:10:28] MTP Info: -404 error received in 190002 with temporary key, assuming it was destroyed.
+[2022.05.03 12:10:28] MTP Info: -404 error received in 220002 with temporary key, assuming it was destroyed.
+[2022.05.03 12:10:28] MTP Info: -404 error received in 180002 with temporary key, assuming it was destroyed.
+[2022.05.03 12:10:29] MTP Info: -404 error received in 160004 with temporary key, assuming it was destroyed.
+[2022.05.03 12:10:29] API Warning: not loaded minimal channel applied.
+[2022.05.03 12:10:31] Audio Info: Closing audio playback device.
+[2022.05.03 12:11:39] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.03 12:11:41] Audio Info: Closing audio playback device.
+[2022.05.03 12:12:01] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.03 12:12:03] Audio Info: Closing audio playback device.
+[2022.05.03 12:13:05] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.03 12:13:07] Audio Info: Closing audio playback device.
+[2022.05.03 13:00:07] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.03 13:00:10] Audio Info: Closing audio playback device.
+[2022.05.03 13:07:05] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.05.03 13:07:05] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.05.03 14:18:42] Message Info: bad message notification received (error_code 16) for msg_id = 7093403920756176444, seq_no = 640
+[2022.05.03 14:18:42] Message Info: bad message notification received (error_code 16) for msg_id = 7093403921338679524, seq_no = 640
+[2022.05.03 14:18:43] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.05.03 14:18:43] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.05.03 14:18:43] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.03 14:18:45] Audio Info: Closing audio playback device.
+[2022.05.03 14:19:25] Could not send ping for some seconds, restarting...
+[2022.05.03 14:30:29] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.03 14:30:31] Audio Info: Closing audio playback device.
+[2022.05.03 14:54:27] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.03 14:54:29] Audio Info: Closing audio playback device.
+[2022.05.03 15:21:25] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.05.03 15:21:25] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.05.03 15:30:02] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.03 15:30:05] Audio Info: Closing audio playback device.
+[2022.05.03 16:00:24] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.03 16:00:26] Audio Info: Closing audio playback device.
+[2022.05.03 16:13:13] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.05.03 16:13:13] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.05.03 16:28:13] RPC Error: request 4240 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2022.05.03 16:54:48] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.05.03 16:54:48] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.05.03 17:03:34] Message Info: bad message notification received (error_code 16) for msg_id = 7093461962607807100, seq_no = 2013
+[2022.05.03 17:03:44] Message Info: bad message notification received (error_code 16) for msg_id = 7093462006592551900, seq_no = 2015
+[2022.05.03 17:03:44] Message Info: bad message notification received (error_code 16) for msg_id = 7093462007371490904, seq_no = 2016
+[2022.05.03 17:03:44] Message Info: bad message notification received (error_code 16) for msg_id = 7093462007809969120, seq_no = 2016
+[2022.05.03 17:03:44] Message Info: bad message notification received (error_code 16) for msg_id = 7093462008250687516, seq_no = 2016
+[2022.05.03 17:03:45] Message Info: bad message notification received (error_code 16) for msg_id = 7093462008689697588, seq_no = 2016
+[2022.05.03 17:03:46] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.03 17:03:48] Audio Info: Closing audio playback device.
+[2022.05.04 10:17:28] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.05.04 10:17:28] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.05.04 10:17:29] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 10:17:31] Audio Info: Closing audio playback device.
+[2022.05.04 10:25:43] Message Info: bad message notification received (error_code 16) for msg_id = 7093731092972876308, seq_no = 2088
+[2022.05.04 10:25:44] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.05.04 10:25:44] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.05.04 10:26:28] Could not send ping for some seconds, restarting...
+[2022.05.04 10:32:55] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 10:32:57] Audio Info: Closing audio playback device.
+[2022.05.04 10:44:07] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 10:44:09] Audio Info: Closing audio playback device.
+[2022.05.04 10:45:55] RPC Error: request 4526 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2022.05.04 11:11:08] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 11:11:10] Audio Info: Closing audio playback device.
+[2022.05.04 11:19:17] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.05.04 11:19:17] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.05.04 11:19:39] RPC Error: request 4609 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2022.05.04 11:20:13] RPC Error: request 4612 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2022.05.04 11:25:02] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 11:25:04] Audio Info: Closing audio playback device.
+[2022.05.04 11:26:52] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 11:26:54] Audio Info: Closing audio playback device.
+[2022.05.04 11:35:12] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 11:35:14] Audio Info: Closing audio playback device.
+[2022.05.04 12:09:44] MTP Info: -404 error received in 2 with temporary key, assuming it was destroyed.
+[2022.05.04 12:17:02] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 12:17:04] Audio Info: Closing audio playback device.
+[2022.05.04 12:27:59] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.05.04 12:27:59] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.05.04 12:34:07] MTP Info: -404 error received in 160002 with temporary key, assuming it was destroyed.
+[2022.05.04 13:00:27] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 13:00:29] Audio Info: Closing audio playback device.
+[2022.05.04 13:21:44] API Warning: not loaded minimal channel applied.
+[2022.05.04 13:21:44] API Warning: not loaded minimal channel applied.
+[2022.05.04 13:26:58] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.05.04 13:26:58] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.05.04 13:28:44] RPC Error: request 4943 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2022.05.04 13:34:17] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 13:34:19] Audio Info: Closing audio playback device.
+[2022.05.04 13:47:51] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 13:47:53] Audio Info: Closing audio playback device.
+[2022.05.04 14:23:56] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 14:23:58] Audio Info: Closing audio playback device.
+[2022.05.04 14:31:18] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.05.04 14:31:18] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.05.04 15:32:47] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.05.04 15:32:47] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.05.04 16:15:28] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 16:15:30] Audio Info: Closing audio playback device.
+[2022.05.04 16:35:22] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 16:35:24] Audio Info: Closing audio playback device.
+[2022.05.04 16:40:01] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.05.04 16:40:01] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.05.04 16:54:08] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 16:54:10] Audio Info: Closing audio playback device.
+[2022.05.04 16:56:09] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 16:56:11] Audio Info: Closing audio playback device.
+[2022.05.04 17:03:56] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.04 17:03:58] Audio Info: Closing audio playback device.
+[2022.05.05 11:23:27] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.05.05 11:23:27] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.
+[2022.05.05 11:23:30] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.05 11:23:32] API Warning: not loaded minimal channel applied.
+[2022.05.05 11:23:32] Audio Info: Closing audio playback device.
+[2022.05.05 11:23:34] Audio Info: recreating audio device and reattaching the tracks
+[2022.05.05 11:23:36] Audio Info: Closing audio playback device.
+[2022.05.05 11:23:38] RPC Error: request 5615 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2022.05.05 11:30:17] MTP Info: -404 error received in 160001 with temporary key, assuming it was destroyed.
+[2022.05.05 11:30:18] Message Info: bad message notification received (error_code 16) for msg_id = 7094118800916576072, seq_no = 12
+[2022.05.05 11:30:18] Message Info: bad message notification received (error_code 16) for msg_id = 7094118800916468324, seq_no = 12
+[2022.05.05 11:36:59] RPC Error: request 5664 got fail with code 401, error AUTH_KEY_UNREGISTERED
+[2022.05.05 11:36:59] RPC Error in getDifference: 401 AUTH_KEY_UNREGISTERED: 
+[2022.05.05 11:37:15] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/maps' for writing.
+[2022.05.05 11:37:15] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/map0' for writing.
+[2022.05.05 11:37:15] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8Cs' for writing.
+[2022.05.05 11:37:15] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C0' for writing.
+[2022.05.05 11:37:15] MTP Info: -404 error received in 20004 with temporary key, assuming it was destroyed.
+[2022.05.05 11:37:15] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/357E63400E6F4CBEs' for writing.
+[2022.05.05 11:37:15] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/357E63400E6F4CBE0' for writing.
+[2022.05.05 11:37:16] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/357E63400E6F4CBEs' for writing.
+[2022.05.05 11:37:16] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/357E63400E6F4CBE0' for writing.
+[2022.05.05 11:37:16] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/settingss' for writing.
+[2022.05.05 11:37:16] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/settings0' for writing.
+[2022.05.05 11:37:16] MTP Info: -404 error received in 20003 with temporary key, assuming it was destroyed.
+[2022.05.05 11:37:16] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/configs' for writing.
+[2022.05.05 11:37:16] Storage Error: Could not open '/home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/tdata/D877F783D5D3EF8C/config0' for writing.

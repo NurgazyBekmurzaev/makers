@@ -1,0 +1,220 @@
+VISUAL STUDIO CODE
+
+
+# string
+# string methods
+#  dir - это функция с помощью которогй можно получить все методы типа данных
+
+# name = "John"
+# print(dir(name))
+
+
+first_name = input("type your name: ")
+new = first_name.lower()
+print(new)
+
+
+
+
+TERMINAL
+
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+['__add__', '__class__', '__contains__', '__delattr__', '__dir__', '__doc__', '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__getnewargs__', '__gt__', '__hash__', '__init__', '__init_subclass__', '__iter__', '__le__', '__len__', '__lt__', '__mod__', '__mul__', '__ne__', '__new__', '__reduce__', '__reduce_ex__', '__repr__', '__rmod__', '__rmul__', '__setattr__', '__sizeof__', '__str__', '__subclasshook__', 'capitalize', 'casefold', 'center', 'count', 'encode', 'endswith', 'expandtabs', 'find', 'format', 'format_map', 'index', 'isalnum', 'isalpha', 'isascii', 'isdecimal', 'isdigit', 'isidentifier', 'islower', 'isnumeric', 'isprintable', 'isspace', 'istitle', 'isupper', 'join', 'ljust', 'lower', 'lstrip', 'maketrans', 'partition', 'replace', 'rfind', 'rindex', 'rjust', 'rpartition', 'rsplit', 'rstrip', 'split', 'splitlines', 'startswith', 'strip', 'swapcase', 'title', 'translate', 'upper', 'zfill']
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ ^C
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+type your name: /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+type your name: HELLO WORLD
+hello world
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ 
+
+
+VISUAL STUDIO CODE
+
+
+# salam = "Salam 312"
+# print(type(salam))
+
+# hello = 'Hello World!'
+# print(type(hello))
+
+
+
+# gimn = """Ак мөңгүлүү аска, зоолор, талаалар,
+# Элибиздин жаны менен барабар.
+# Сансыз кылым Ала-Тоосун мекендеп,
+# Сактап келди биздин ата-бабалар!"""
+# print(type(gimn))
+
+#  """ стри кавычки можно использовать для содеражания строки """
+#  """ кавычки должны быть одинаковыми  с начало и в конце"""
+
+
+
+# some_var = "I dont\'t know"
+# string_with_screen_one = """Жанна д'Арк ""hello world"" лидером"""
+
+# string_with_screen_one = "Жанна д'Арк \"hello world\" лидером"
+
+
+
+
+#  Форматирование строк \ String interpolation
+#  %s бронирование место в строке
+
+# player_1 = 150
+# massage = 'Игрок1: %s очков'
+# result = massage % player_1
+# print(result) 
+
+in_the_bottom = "Кто проживает на дне океана?"
+yellow = "Желтая губка, малыш без изьяна..."
+always_wins = "Кто побеждает всегда и везде?"
+as_fish = "Кто также ловок как рыба в воде?"
+
+sponge_bob = "%s --> Спанч Боб Square Pants"
+print(sponge_bob % in_the_bottom)
+print(sponge_bob % yellow)
+print(sponge_bob % always_wins)
+print(sponge_bob % as_fish)
+
+
+
+
+TERMINAL
+
+
+type your name: HELLO WORLD
+hello world
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+type your name: HI
+hi
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ ^C
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ ^C
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+<class 'str'>
+<class 'str'>
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+<class 'str'>
+<class 'str'>
+<class 'str'>
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+Traceback (most recent call last):
+  File "/home/hello/Documents/bootcamp/lection2/string.py", line 46, in <module>
+    result = message % player_1
+NameError: name 'message' is not defined
+Error in sys.excepthook:
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/apport_python_hook.py", line 72, in apport_excepthook
+    from apport.fileutils import likely_packaged, get_recent_crashes
+  File "/usr/lib/python3/dist-packages/apport/__init__.py", line 5, in <module>
+    from apport.report import Report
+  File "/usr/lib/python3/dist-packages/apport/report.py", line 21, in <module>
+    from urllib.request import urlopen
+  File "/usr/lib/python3.8/urllib/request.py", line 88, in <module>
+    import http.client
+  File "/usr/lib/python3.8/http/client.py", line 71, in <module>
+    import email.parser
+  File "/usr/lib/python3.8/email/parser.py", line 12, in <module>
+    from email.feedparser import FeedParser, BytesFeedParser
+  File "/usr/lib/python3.8/email/feedparser.py", line 27, in <module>
+    from email._policybase import compat32
+  File "/usr/lib/python3.8/email/_policybase.py", line 7, in <module>
+    from email import header
+  File "/usr/lib/python3.8/email/header.py", line 16, in <module>
+    import email.quoprimime
+  File "/usr/lib/python3.8/email/quoprimime.py", line 44, in <module>
+    from string import ascii_letters, digits, hexdigits
+  File "/home/hello/Documents/bootcamp/lection2/string.py", line 46, in <module>
+    result = message % player_1
+NameError: name 'message' is not defined
+
+Original exception was:
+Traceback (most recent call last):
+  File "/home/hello/Documents/bootcamp/lection2/string.py", line 46, in <module>
+    result = message % player_1
+NameError: name 'message' is not defined
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ python3 string.py
+python3: can't open file 'string.py': [Errno 2] No such file or directory
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ python3 string.py
+python3: can't open file 'string.py': [Errno 2] No such file or directory
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+Игрок1: 150 очков
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+Кто проживает на дне океана? --> Спанч Боб Square Pants
+Желтая губка, малыш без изьяна... --> Спанч Боб Square Pants
+Кто побеждает всегда и везде? --> Спанч Боб Square Pants
+Кто также ловок как рыба в воде? --> Спанч Боб Square Pants
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ 
+
+
+VISUAL STUDIO CODE
+
+# result = "Я программист %s. Я знаю %s, сейчас изучаю %s"
+# print(result % ('крутой', 'puthon', 'javascript'))
+
+
+# result = "Я программист %s. Я знаю %s, сейчас изучаю %s"
+# langs = ('крутой', 'puthon', 'javascript')
+# print(result % langs)
+
+
+
+
+# result = "Я программист {2}. Я знаю {1}, сейчас изучаю {0}"
+# message = result.format('Java', 'Python', 'Senior')
+# print(message)
+
+# Второй способ форматирования с помошью метода .format()
+
+# result = "Я программист {level}. Я знаю {f_lang}, сейчас изучаю {s_lang}"
+# message = result.format(f_lang="Python", s_lang="Javascript", level="Senior")
+# print(message)
+
+
+#   третий способ форматирования с помошью метода  f"{}
+
+
+# name = "John"
+# last_name = "Snow"
+
+# hello = f"{name} {last_name} -- the best actor"
+# print(hello)
+
+
+
+
+# tytle = "Hello"
+# last_tytle = "World"
+# result = tytle + " " + last_tytle
+# print(result)
+
+# country = "Kyrgystan"
+# print(country * 20)
+
+# my_country = "Kyrgystan"
+# print(len(my_country))
+
+
+TERMINAL
+
+
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+Я программист Senior. Я знаю Python, сейчас изучаю Javascript
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+John Snow -- the best actor
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ /bin/python3 /home/hello/Documents/bootcamp/lection2/string.py
+Hello World
+KyrgystanKyrgystanKyrgystanKyrgystanKyrgystanKyrgystanKyrgystanKyrgystanKyrgystanKyrgystanKyrgystanKyrgystanKyrgystanKyrgystanKyrgystanKyrgystanKyrgystanKyrgystanKyrgystanKyrgystan
+9
+hello@hello-Lenovo-ThinkBook-15-IML:~/Documents/bootcamp/lection1$ 
+
+
+
+
+
+
+
+

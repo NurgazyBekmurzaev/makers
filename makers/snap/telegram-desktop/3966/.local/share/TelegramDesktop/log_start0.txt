@@ -1,0 +1,19 @@
+[2022.04.27 16:31:30] Launched version: 3007002, install beta: [FALSE], alpha: 0, debug mode: [FALSE]
+[2022.04.27 16:31:30] Executable dir: /snap/telegram-desktop/3966/usr/bin/, name: telegram-desktop
+[2022.04.27 16:31:30] Initial working dir: /home/hello/
+[2022.04.27 16:31:30] Working dir: /home/hello/snap/telegram-desktop/3966/.local/share/TelegramDesktop/
+[2022.04.27 16:31:30] Command line: telegram-desktop --
+[2022.04.27 16:31:30] Executable path before check: /snap/telegram-desktop/3966/usr/bin/telegram-desktop
+[2022.04.27 16:31:30] Logs started
+[2022.04.27 16:31:30] Launcher filename: telegram-desktop_telegram-desktop.desktop
+[2022.04.27 16:31:30] Getting DE, XDG_CURRENT_DESKTOP: 'ubuntu:GNOME'
+[2022.04.27 16:31:30] Getting DE, XDG_SESSION_DESKTOP: 'ubuntu'
+[2022.04.27 16:31:30] Getting DE, DESKTOP_SESSION: 'ubuntu'
+[2022.04.27 16:31:30] Getting DE via WM: 'GNOME Shell'
+[2022.04.27 16:31:30] Getting DE, GNOME_DESKTOP_SESSION_ID: 'this-is-deprecated'
+[2022.04.27 16:31:30] Getting DE, KDE_FULL_SESSION: ''
+[2022.04.27 16:31:30] DE: Gnome
+[2022.04.27 16:31:31] Connecting local socket to /run/user/1000/snap.telegram-desktop/acd5bdfca63e501e7ffa320fe3603d79...
+[2022.04.27 16:31:31] Socket connected, this is not the first application instance, sending show command...
+[2022.04.27 16:31:31] Show command written, waiting response...
+[2022.04.27 16:31:31] Show command response received, pid = 207188, activating and quitting...
